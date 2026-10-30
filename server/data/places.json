@@ -1,0 +1,3874 @@
+[
+  {
+    "id": "mysuru-heritage-core",
+    "name": "Mysuru Heritage Core",
+    "kannada_name": "ಮೈಸೂರು ಅರಮನೆ ಪರಿಸರ",
+    "district": "Mysuru",
+    "region": "Old Mysuru",
+    "category": "fort_monument",
+    "interest_tags": [
+      "architecture",
+      "history",
+      "crafts",
+      "food",
+      "photography"
+    ],
+    "best_season": [
+      "September",
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "typical_duration_hours": 4.5,
+    "cost_level": "medium",
+    "popularity_tier": 1,
+    "short_description": "The royal seat of the Wadiyar dynasty featuring the Indo-Saracenic Mysore Palace, Chamundi Hill, and Devaraja Market.",
+    "how_to_reach": "Major railhead and highway junction; well connected to Bengaluru via the Expressway and Shatabdi trains.",
+    "lat": 12.3051,
+    "lng": 76.6551,
+    "coords_approx": true,
+    "heritage_era": "Wadiyar Dynasty (14th–20th century CE)",
+    "local_food": [
+      "Mysore Pak",
+      "Mylari Dosa",
+      "Mysore Rasam",
+      "Nanjangud Rasabale"
+    ],
+    "local_craft": "Rosewood inlay woodwork, Mysore silk saris, and sandalwood carving",
+    "cultural_note": "The city's cultural rhythm is anchored by the centuries-old Dasara tradition initiated by Raja Wadiyar in 1610.",
+    "festivals": [
+      {
+        "name": "Mysuru Dasara",
+        "typical_month": "October",
+        "note": "Ten-day state festival (Nada Habba) culminating in the Jamboo Savari elephant procession from the Palace."
+      }
+    ],
+    "phrases": [
+      {
+        "kannada": "ಅರಮನೆಯ ಒಳಗೆ ಫೋಟೋ ತೆಗೆಯಬಹುದೇ?",
+        "transliteration": "Aramaneya olage photo tegeyabahude?",
+        "english": "Can we take photos inside the palace?",
+        "when_to_use": "At ticket counters and entry checkpoints.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "somanathapura-keshava",
+    "name": "Somanathapura",
+    "kannada_name": "ಸೋಮನಾಥಪುರ",
+    "district": "Mysuru",
+    "region": "Old Mysuru",
+    "category": "temple_heritage",
+    "interest_tags": [
+      "architecture",
+      "history",
+      "photography",
+      "quiet_retreat"
+    ],
+    "best_season": [
+      "September",
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "typical_duration_hours": 2.5,
+    "cost_level": "low",
+    "popularity_tier": 2,
+    "short_description": "A pristine trikuta (triple-shrined) Hoysala temple dedicated to Prasanna Chennakeshava, built by Dandanayaka Somanatha.",
+    "how_to_reach": "Located ~38 km east of Mysuru city along the Kaveri river plains; best reached by taxi or bus via Bannur.",
+    "lat": 12.2764,
+    "lng": 76.9054,
+    "coords_approx": true,
+    "heritage_era": "Hoysala Empire (1268 CE, King Narasimha III)",
+    "local_food": [
+      "Maddur Vada",
+      "Filter Coffee"
+    ],
+    "local_craft": "Miniature soapstone carving replicas sold near temple gates",
+    "cultural_note": "UNESCO World Heritage Site since 2023 as part of the Sacred Ensembles of the Hoysalas.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ದೇವಾಲಯದ ಕೆತ್ತನೆಗಳನ್ನು ನೋಡಲು ಎಷ್ಟು ಸಮಯ ಬೇಕು?",
+        "transliteration": "Devaalayada kettanegalannu noodalu eshtu samaya beku?",
+        "english": "How much time is needed to see temple carvings?",
+        "when_to_use": "Planning your visit at the entrance.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "melkote-temples-kalyani",
+    "name": "Melkote",
+    "kannada_name": "ಮೇಲುಕೋಟೆ",
+    "district": "Mandya",
+    "region": "Old Mysuru",
+    "category": "temple_heritage",
+    "interest_tags": [
+      "architecture",
+      "spirituality",
+      "history",
+      "food",
+      "photography"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "typical_duration_hours": 3.5,
+    "cost_level": "low",
+    "popularity_tier": 2,
+    "short_description": "Sacred hill town and centre of Srivaishnavism, home to Cheluvanarayana Swamy Temple, hilltop Yoga Narasimha shrine, and Akka-Thangi Kalyani.",
+    "how_to_reach": "Approximately 50 km from Mysuru and 130 km from Bengaluru via the Mandya/Pandavapura turnoff.",
+    "lat": 12.6653,
+    "lng": 76.6499,
+    "coords_approx": true,
+    "heritage_era": "Hoysala, Vijayanagara & Wadiyar (12th–18th century CE)",
+    "local_food": [
+      "Melkote Puliyogare",
+      "Sakkare Pongal",
+      "Subbamma Angadi sweets"
+    ],
+    "local_craft": "Traditional handloom weaving and brass lamp casting",
+    "cultural_note": "Philosopher Sri Ramanujacharya resided here for twelve years in the early 12th century.",
+    "festivals": [
+      {
+        "name": "Vairamudi Brahmotsava",
+        "typical_month": "March",
+        "note": "Famous annual night procession where the deity is adorned with the historic diamond crown."
+      }
+    ],
+    "phrases": [
+      {
+        "kannada": "ಪುಳಿಯೋಗರೆ ಪ್ರಸಾದ ಎಲ್ಲಿ ಸಿಗುತ್ತದೆ?",
+        "transliteration": "Puliyogare prasaada elli siguttade?",
+        "english": "Where can we get Puliyogare prasaada?",
+        "when_to_use": "Near Cheluvanarayana Swamy Temple.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "channapatna-crafts",
+    "name": "Channapatna",
+    "kannada_name": "ಚನ್ನಪಟ್ಟಣ",
+    "district": "Ramanagara",
+    "region": "Old Mysuru",
+    "category": "craft_cultural_town",
+    "interest_tags": [
+      "crafts",
+      "history",
+      "food"
+    ],
+    "best_season": [
+      "September",
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "typical_duration_hours": 2.5,
+    "cost_level": "low",
+    "popularity_tier": 2,
+    "short_description": "The Gombegala Ooru (City of Toys), famous for GI-tagged lacquerware turned from Wrightia tinctoria (Aale Mara) softwood using vegetable dyes.",
+    "how_to_reach": "Located on the Bengaluru–Mysuru highway corridor; easily reached by KSRTC buses or local train.",
+    "lat": 12.6518,
+    "lng": 77.2089,
+    "coords_approx": true,
+    "heritage_era": "Late 18th century CE craft guilds onwards",
+    "local_food": [
+      "Ragi Mudde with Bassaru",
+      "Channapatna Thatte Idli"
+    ],
+    "local_craft": "GI-tagged lacquerware wooden toys, rocking horses, and educational beads",
+    "cultural_note": "Tipu Sultan invited Persian master craftsmen to train local artisans in lacquerware woodturning.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ಮರದ ಬೊಂಬೆಗಳು ಹೇಗೆ ತಯಾರಿಸುತ್ತಾರೆ?",
+        "transliteration": "Marada bombegalu heege tayarisuttaare?",
+        "english": "How are wooden toys made?",
+        "when_to_use": "Visiting an artisan lathe workshop.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "basaralu-mallikarjuna",
+    "name": "Basaralu",
+    "kannada_name": "ಬಸರಾಳು",
+    "district": "Mandya",
+    "region": "Old Mysuru",
+    "category": "temple_heritage",
+    "interest_tags": [
+      "architecture",
+      "history",
+      "photography",
+      "quiet_retreat"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "typical_duration_hours": 2,
+    "cost_level": "low",
+    "popularity_tier": 3,
+    "short_description": "An offbeat rural village housing the 13th-century Mallikarjuna Temple with intricate exterior friezes depicting Ramayana panels.",
+    "how_to_reach": "~25 km north of Mandya town; accessible via local country roads by private vehicle or rural bus.",
+    "lat": 12.7122,
+    "lng": 76.8143,
+    "coords_approx": true,
+    "heritage_era": "Hoysala Empire (1234 CE, King Vira Narasimha II)",
+    "local_food": [
+      "Ragi Mudde",
+      "Sojji",
+      "Fresh Sugarcane Juice"
+    ],
+    "local_craft": "Rural pottery and coconut palm leaf weaving",
+    "cultural_note": "Commissioned by Harihara Dandanayaka, the temple showcases exquisite multi-layered base friezes with war elephants and makaras.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ದೇವಸ್ಥಾನದ ಬೀಗ ಯಾರ ಬಳಿ ಇದೆ?",
+        "transliteration": "Devaalayada beega yaara bali ide?",
+        "english": "Who has the temple keys?",
+        "when_to_use": "When visiting off-peak hours in rural villages.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "govindanahalli-panchalingeshwara",
+    "name": "Govindanahalli",
+    "kannada_name": "ಗೋವಿಂದನಹಳ್ಳಿ",
+    "district": "Mandya",
+    "region": "Old Mysuru",
+    "category": "temple_heritage",
+    "interest_tags": [
+      "architecture",
+      "history",
+      "quiet_retreat"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "typical_duration_hours": 2,
+    "cost_level": "low",
+    "popularity_tier": 3,
+    "short_description": "A rare and remarkable panchalingeshwara (five-shrined) Hoysala stone temple aligned along a single grand porch, set amid quiet green fields.",
+    "how_to_reach": "Near Kikkeri and K.R. Pet in Mandya district, ~65 km from Mysuru.",
+    "lat": 12.8251,
+    "lng": 76.4182,
+    "coords_approx": true,
+    "heritage_era": "Hoysala Empire (1237 CE, King Vira Someshwara)",
+    "local_food": [
+      "Uppittu",
+      "Avalakki",
+      "Filter Kaapi"
+    ],
+    "local_craft": "Sericulture and silk cocoon rearing in nearby villages",
+    "cultural_note": "Attributed to master sculptor Ruvari Mallitamma, this is the only surviving intact quintuple-temple plan in Hoysala architecture.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ಇದು ಐದು ಗರ್ಭಗುಡಿಗಳ ದೇವಾಲಯವೇ?",
+        "transliteration": "Idu aidu garbhagudigala devaalayave?",
+        "english": "Is this the temple with five sanctums?",
+        "when_to_use": "Confirming arrival with village elders.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "aralaguppe-kallesvara",
+    "name": "Aralaguppe",
+    "kannada_name": "ಅರಳಗುಪ್ಪೆ",
+    "district": "Tumakuru",
+    "region": "Old Mysuru",
+    "category": "temple_heritage",
+    "interest_tags": [
+      "architecture",
+      "history",
+      "quiet_retreat"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "typical_duration_hours": 2,
+    "cost_level": "low",
+    "popularity_tier": 3,
+    "short_description": "Ancient village home to the 9th-century Nolamba Kallesvara Temple with remarkable ceiling sculptures of dancing Nataraja.",
+    "how_to_reach": "Located ~60 km from Tumakuru and ~18 km from Tiptur; accessible by rural train or local roads.",
+    "lat": 13.2388,
+    "lng": 76.7011,
+    "coords_approx": true,
+    "heritage_era": "Nolamba Dynasty & Hoysala Empire (9th–13th century CE)",
+    "local_food": [
+      "Tiptur Coconut sweets",
+      "Thatte Idli"
+    ],
+    "local_craft": "Coir processing and coconut fibre handicrafts around Tiptur",
+    "cultural_note": "The central ceiling bhuvaneshwari slab features Ashta-Dikpalas and dancing Shiva, considered a pinnacle of Nolamba stone sculpting.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ಛಾವಣಿಯ ಶಿಲ್ಪಗಳನ್ನು ದಯವಿಟ್ಟು ತೋರಿಸಿ",
+        "transliteration": "Chhaavaniya shilpagalannu dayavittu torisi",
+        "english": "Please show us the ceiling sculptures",
+        "when_to_use": "Asking the priest or caretaker.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "kaidala-chennakeshava",
+    "name": "Kaidala",
+    "kannada_name": "ಕೈದಾಳ",
+    "district": "Tumakuru",
+    "region": "Old Mysuru",
+    "category": "temple_heritage",
+    "interest_tags": [
+      "architecture",
+      "history",
+      "quiet_retreat"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "typical_duration_hours": 1.5,
+    "cost_level": "low",
+    "popularity_tier": 3,
+    "short_description": "Historical village historically known as Kridapura, featuring a towering 6-foot monolithic idol of Chennakeshava attributed to master sculptor Jakanachari.",
+    "how_to_reach": "Situated ~9 km south of Tumakuru city; easily reached by auto-rickshaw or taxi.",
+    "lat": 13.3102,
+    "lng": 77.0681,
+    "coords_approx": true,
+    "heritage_era": "Hoysala & Vijayanagara (12th–14th century CE)",
+    "local_food": [
+      "Tumakuru Thatte Idli",
+      "Benne Dosa"
+    ],
+    "local_craft": "Black stone idol carving tradition",
+    "cultural_note": "Folklore tells that legendary sculptor Jakanachari regained his severed right hand here after completing the Chennakeshava idol.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ಜಕಣಾಚಾರಿಯವರ ಕಥೆ ಏನು?",
+        "transliteration": "Jakanachariyavara kathe enu?",
+        "english": "What is the story of Jakanachari?",
+        "when_to_use": "Inquiring about temple folklore.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "talakadu-sand-temples",
+    "name": "Talakadu",
+    "kannada_name": "ತಲಕಾಡು",
+    "district": "Mysuru",
+    "region": "Old Mysuru",
+    "category": "temple_heritage",
+    "interest_tags": [
+      "history",
+      "spirituality",
+      "photography"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "typical_duration_hours": 3,
+    "cost_level": "low",
+    "popularity_tier": 2,
+    "short_description": "Mysterious riverside settlement on the Kaveri bends where historic temples like Vaidyanatheshwara and Keerthinarayana are excavated from creeping sand dunes.",
+    "how_to_reach": "~45 km from Mysuru via T. Narasipura; connected by state buses and cabs.",
+    "lat": 12.1932,
+    "lng": 77.0321,
+    "coords_approx": true,
+    "heritage_era": "Western Ganga, Chola & Hoysala (10th–14th century CE)",
+    "local_food": [
+      "Curd Rice",
+      "Spiced Buttermilk"
+    ],
+    "local_craft": "Coracle boat building and bamboo fishing traps",
+    "cultural_note": "Known for the famous historical curse of Alamelamma associated with the fall of the Vijayanagara viceroys.",
+    "festivals": [
+      {
+        "name": "Panchalinga Darshana",
+        "typical_month": "November",
+        "note": "Occasional sacred pilgrimage cycle calculated on rare astrological alignments."
+      }
+    ],
+    "phrases": [
+      {
+        "kannada": "ಮರಳಿನಲ್ಲಿ ಹುದುಗಿದ ದೇವಾಲಯಗಳು ಎಲ್ಲಿವೆ?",
+        "transliteration": "Maralinalli hudugida devaalayagalu ellive?",
+        "english": "Where are the temples buried in the sand?",
+        "when_to_use": "Walking through the sandy pathways.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "shravanabelagola-bahubali",
+    "name": "Shravanabelagola",
+    "kannada_name": "ಶ್ರವಣಬೆಳಗೊಳ",
+    "district": "Hassan",
+    "region": "Old Mysuru",
+    "category": "temple_heritage",
+    "interest_tags": [
+      "spirituality",
+      "history",
+      "architecture",
+      "trekking"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "typical_duration_hours": 4,
+    "cost_level": "low",
+    "popularity_tier": 1,
+    "short_description": "World-renowned Jain pilgrimage centre featuring the 57-foot monolithic statue of Lord Bahubali atop Vindhyagiri hill.",
+    "how_to_reach": "Located ~80 km from Mysuru and 140 km from Bengaluru; connected by Shravanabelagola railway station.",
+    "lat": 12.8592,
+    "lng": 76.4851,
+    "coords_approx": true,
+    "heritage_era": "Western Ganga Dynasty (981 CE, Chavundaraya)",
+    "local_food": [
+      "Pure Vegetarian Jain Thali",
+      "Maddur Vada"
+    ],
+    "local_craft": "Brass and copper pooja vessels craft in the town bazaar",
+    "cultural_note": "The Vindhyagiri and Chandragiri hills hold over 800 rock inscriptions detailing the history of Kannada literature.",
+    "festivals": [
+      {
+        "name": "Mahamastakabhisheka",
+        "typical_month": "February",
+        "note": "Grand head-anointing ceremony performed once every 12 years."
+      }
+    ],
+    "phrases": [
+      {
+        "kannada": "ಬೆಟ್ಟ ಹತ್ತಲು ಎಷ್ಟು ಮೆಟ್ಟಿಲುಗಳಿವೆ?",
+        "transliteration": "Betta hattalu eshtu mettilugalive?",
+        "english": "How many steps are there to climb the hill?",
+        "when_to_use": "At the foot of Vindhyagiri (approx. 650 steps).",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "ranganathittu-bird-sanctuary",
+    "name": "Ranganathittu",
+    "kannada_name": "ರಂಗನತಿಟ್ಟು ಪಕ್ಷಿಧಾಮ",
+    "district": "Mandya",
+    "region": "Old Mysuru",
+    "category": "wildlife_sanctuary",
+    "interest_tags": [
+      "nature",
+      "photography"
+    ],
+    "best_season": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "typical_duration_hours": 2.5,
+    "cost_level": "medium",
+    "popularity_tier": 1,
+    "short_description": "Six islets on the Kaveri River that form Karnataka's largest bird sanctuary, famous for nesting painted storks and marsh crocodiles.",
+    "how_to_reach": "~16 km north of Mysuru near Srirangapatna; easily accessed via highway cabs or local buses.",
+    "lat": 12.4239,
+    "lng": 76.6853,
+    "coords_approx": true,
+    "heritage_era": "Protected Wildlife Wetland (1940 onwards)",
+    "local_food": [
+      "Tatte Idli",
+      "Sugarcane Juice"
+    ],
+    "local_craft": "Local river reed baskets",
+    "cultural_note": "Dr. Salim Ali surveyed the islets in 1940 and persuaded the Maharaja of Mysore to declare the area a sanctuary.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ದೋಣಿ ವಿಹಾರದ ಟಿಕೆಟ್ ಎಲ್ಲಿ ಸಿಗುತ್ತದೆ?",
+        "transliteration": "Dooni vihaarada ticket elli siguttade?",
+        "english": "Where can we get tickets for the boat ride?",
+        "when_to_use": "At the sanctuary ticket counter.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "shivanasamudra-falls",
+    "name": "Shivanasamudra",
+    "kannada_name": "ಶಿವನಸಮುದ್ರ ಜಲಪಾತ",
+    "district": "Chamarajanagar",
+    "region": "Old Mysuru",
+    "category": "nature_hills",
+    "interest_tags": [
+      "nature",
+      "photography"
+    ],
+    "best_season": [
+      "July",
+      "August",
+      "September",
+      "October",
+      "November"
+    ],
+    "typical_duration_hours": 3,
+    "cost_level": "low",
+    "popularity_tier": 2,
+    "short_description": "The twin roaring waterfalls of Gaganachukki and Bharachukki where the Kaveri river plunges over rocky crags, site of India's earliest hydroelectric plant.",
+    "how_to_reach": "~75 km east of Mysuru and 130 km from Bengaluru via Malavalli.",
+    "lat": 12.2982,
+    "lng": 77.1712,
+    "coords_approx": true,
+    "heritage_era": "Early 20th century hydroelectric heritage (1902 CE) & Ancient shrines",
+    "local_food": [
+      "Ragi Mudde",
+      "Masala Buttermilk"
+    ],
+    "local_craft": "Coracle boating tradition along the rocky pools",
+    "cultural_note": "The Shivanasamudra hydro station, commissioned by Diwan K. Seshadri Iyer in 1902, supplied electricity to Kolar Gold Fields.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ಭರಚುಕ್ಕಿ ಮತ್ತು ಗಗನಚುಕ್ಕಿಗೆ ಎಷ್ಟು ದೂರ?",
+        "transliteration": "Bharachukki mattu Gaganachukkige eshtu doora?",
+        "english": "How far is it between Bharachukki and Gaganachukki?",
+        "when_to_use": "At the parking junction.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "br-hills-sanctuary",
+    "name": "Biligirirangana Hills",
+    "kannada_name": "ಬಿಳಿಗಿರಿರಂಗನ ಬೆಟ್ಟ (ಬಿ.ಆರ್. ಹಿಲ್ಸ್)",
+    "district": "Chamarajanagar",
+    "region": "Old Mysuru",
+    "category": "wildlife_sanctuary",
+    "interest_tags": [
+      "nature",
+      "spirituality",
+      "trekking"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "typical_duration_hours": 3.5,
+    "cost_level": "medium",
+    "popularity_tier": 2,
+    "short_description": "Biogeographical bridge linking the Western and Eastern Ghats, revered for the clifftop Biligiriranganatha Swamy Temple and Soliga tribal heritage.",
+    "how_to_reach": "~85 km south-east of Mysuru and 40 km from Chamarajanagar railhead.",
+    "lat": 11.9921,
+    "lng": 77.1412,
+    "coords_approx": true,
+    "heritage_era": "Ganga & Hoysala sacred tradition; Soliga indigenous territory",
+    "local_food": [
+      "Forest Wild Honey",
+      "Ragi Rotti"
+    ],
+    "local_craft": "Soliga tribal non-timber forest produce and medicinal root mixtures",
+    "cultural_note": "The Soliga tribe regards the champaka tree (Dodda Sampige) as sacred and has co-existed with tigers for centuries.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ದೊಡ್ಡ ಸಂಪಿಗೆ ಮರ ಎಷ್ಟು ದೂರ ಇದೆ?",
+        "transliteration": "Dodda sampige mara eshtu doora ide?",
+        "english": "How far is the ancient Champaka tree?",
+        "when_to_use": "Inquiring about sacred forest landmarks.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "gundlupet-bandipur-fringe",
+    "name": "Gundlupet Flower Fields",
+    "kannada_name": "ಗುಂಡ್ಲುಪೇಟೆ",
+    "district": "Chamarajanagar",
+    "region": "Old Mysuru",
+    "category": "nature_hills",
+    "interest_tags": [
+      "nature",
+      "photography",
+      "quiet_retreat"
+    ],
+    "best_season": [
+      "July",
+      "August",
+      "September",
+      "October",
+      "November"
+    ],
+    "typical_duration_hours": 2.5,
+    "cost_level": "low",
+    "popularity_tier": 2,
+    "short_description": "The gateway to the Nilgiri slopes, known for vast golden sunflower and marigold flower valleys and rural farm trails.",
+    "how_to_reach": "~60 km south of Mysuru along NH 766 towards Wayanad and Ooty.",
+    "lat": 11.8052,
+    "lng": 76.6894,
+    "coords_approx": true,
+    "heritage_era": "Wadiyar border trade town and ancient Hoysala outpost",
+    "local_food": [
+      "Millet Dosas",
+      "Local Tender Coconut",
+      "Fresh Jaggery"
+    ],
+    "local_craft": "Terracotta rustic cookware",
+    "cultural_note": "Gundlupet flower fields bloom between July and September, forming a yellow carpet against the blue mountains.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ಸೂರ್ಯಕಾಂತಿ ತೋಟಗಳಿಗೆ ದಾರಿ ಯಾವುದು?",
+        "transliteration": "Sooryakaanti tootagalige daari yaavudu?",
+        "english": "Which is the road to the sunflower farms?",
+        "when_to_use": "Asking farmers during flowering season.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "maravanthe-river-sea",
+    "name": "Maravanthe",
+    "kannada_name": "ಮರವಂತೆ ಕಡಲತೀರ",
+    "district": "Udupi",
+    "region": "Coastal Karnataka",
+    "category": "coastal_beach",
+    "interest_tags": [
+      "coastal",
+      "nature",
+      "photography",
+      "quiet_retreat"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "typical_duration_hours": 2,
+    "cost_level": "low",
+    "popularity_tier": 2,
+    "short_description": "Scenic stretch where NH 66 runs between the Arabian Sea on one side and the Souparnika River on the other.",
+    "how_to_reach": "Located along NH 66, ~12 km north of Kundapura and ~50 km from Udupi.",
+    "lat": 13.7025,
+    "lng": 74.6542,
+    "coords_approx": true,
+    "heritage_era": "",
+    "local_food": [
+      "Kori Rotti",
+      "Neer Dosa",
+      "Bangude Fry"
+    ],
+    "local_craft": "Coastal coir matting and traditional fishing net knotting",
+    "cultural_note": "Local fishing families venerate the sea through annual Ganga Pooja rituals before the monsoon fishing resumption.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ಇಲ್ಲಿ ಸೂರ್ಯಾಸ್ತ ನೋಡಲು ಉತ್ತಮ ಜಾಗ ಯಾವುದು?",
+        "transliteration": "Illi sooryaasta noodalu uttama jaaga yaavudu?",
+        "english": "Where is the best spot to watch the sunset here?",
+        "when_to_use": "Asking along the beach promenade.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "barkur-alupa-heritage",
+    "name": "Barkur",
+    "kannada_name": "ಬಾರಕೂರು",
+    "district": "Udupi",
+    "region": "Coastal Karnataka",
+    "category": "temple_heritage",
+    "interest_tags": [
+      "architecture",
+      "history",
+      "spirituality",
+      "quiet_retreat"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "typical_duration_hours": 3,
+    "cost_level": "low",
+    "popularity_tier": 3,
+    "short_description": "Ancient royal capital of the Alupa dynasty, boasting stone-roofed Panchalingeshwara and Batta Vinayaka temples, Jain basadis, and coastal ruins.",
+    "how_to_reach": "~16 km north of Udupi and ~4 km from Brahmavara off NH 66.",
+    "lat": 13.4731,
+    "lng": 74.7472,
+    "coords_approx": true,
+    "heritage_era": "Alupa Dynasty & Vijayanagara (7th–14th century CE)",
+    "local_food": [
+      "Kundapura Masala Dosa",
+      "Patrode (colocasia leaf rolls)",
+      "Haldi Leaf Kadabu"
+    ],
+    "local_craft": "Granite stone idol masonry and wood carvings for coastal Daivastana shrines",
+    "cultural_note": "Barkur was known in antiquity as Barakanur and was celebrated for having 365 temples, allowing the king to visit one every day of the year.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ಆಳುಪರ ಹಳೆಯ ಕೋಟೆ ಎಲ್ಲಿದೆ?",
+        "transliteration": "Aalupara haleya kote ellide?",
+        "english": "Where is the old Alupa fort?",
+        "when_to_use": "Navigating rural Barkur roads.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "moodabidri-basadis",
+    "name": "Moodabidri",
+    "kannada_name": "ಮೂಡುಬಿದಿರೆ",
+    "district": "Dakshina Kannada",
+    "region": "Coastal Karnataka",
+    "category": "temple_heritage",
+    "interest_tags": [
+      "architecture",
+      "history",
+      "spirituality"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "typical_duration_hours": 3,
+    "cost_level": "low",
+    "popularity_tier": 3,
+    "short_description": "The Jain Kashi of the South, renowned for the 15th-century Saavira Kambada Basadi (Thousand Pillar Temple) and palm-leaf manuscripts.",
+    "how_to_reach": "~35 km northeast of Mangaluru city; easily accessed by frequent KSRTC and private buses.",
+    "lat": 13.0722,
+    "lng": 74.9961,
+    "coords_approx": true,
+    "heritage_era": "Vijayanagara & Chowta Dynasty (15th century CE)",
+    "local_food": [
+      "Goli Baje",
+      "Mangalore Buns",
+      "Shevai (rice noodles) with sweetened coconut milk"
+    ],
+    "local_craft": "Palm-leaf manuscript preservation and stone carving",
+    "cultural_note": "The Thousand Pillar Temple is noted for never having two identical pillars across its expansive stepped hall.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ಸಾವಿರ ಕಂಬದ ಬಸದಿಗೆ ಹೇಗೆ ಹೋಗುವುದು?",
+        "transliteration": "Saavira kambada basadige heege hooguvudu?",
+        "english": "How do we get to the Thousand Pillar Basadi?",
+        "when_to_use": "At Moodabidri bus circle.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "gokarna-coast",
+    "name": "Gokarna",
+    "kannada_name": "ಗೋಕರ್ಣ",
+    "district": "Uttara Kannada",
+    "region": "Coastal Karnataka",
+    "category": "coastal_beach",
+    "interest_tags": [
+      "coastal",
+      "spirituality",
+      "trekking",
+      "photography"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "typical_duration_hours": 4.5,
+    "cost_level": "medium",
+    "popularity_tier": 1,
+    "short_description": "Pilgrimage town set along cliff-backed beaches, famous for the revered Mahabaleshwar Atmalinga temple, Om Beach, and Kudle Beach.",
+    "how_to_reach": "Located along the coast with Gokarna Road railway station on the Konkan Railway; buses connect from Karwar and Kumta.",
+    "lat": 14.5432,
+    "lng": 74.3188,
+    "coords_approx": true,
+    "heritage_era": "Kadamba & Vijayanagara sacred coastal history (4th–16th century CE)",
+    "local_food": [
+      "Banana Buns",
+      "Todadeya sweet",
+      "Fresh tender coconut",
+      "Seafood Thali"
+    ],
+    "local_craft": "Sea-shell jewellery and brass pooja bells",
+    "cultural_note": "Associated with the legend of Ravana carrying the Atmalinga given by Lord Shiva; the linga was set down here by Ganesha disguised as a cowherd.",
+    "festivals": [
+      {
+        "name": "Maha Shivaratri",
+        "typical_month": "February",
+        "note": "Major annual temple car festival when thousands of pilgrims pull two large temple chariots down Car Street."
+      }
+    ],
+    "phrases": [
+      {
+        "kannada": "ಓಂ ಬೀಚ್‌ಗೆ ನಡೆದು ಹೋಗಬಹುದೇ?",
+        "transliteration": "Om beach-ge nadedu hoogabahude?",
+        "english": "Can we walk to Om Beach from here?",
+        "when_to_use": "Asking about the cliff-side trekking path.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "mirjan-fort-coastal",
+    "name": "Mirjan Fort",
+    "kannada_name": "ಮಿರ್ಜಾನ್ ಕೋಟೆ",
+    "district": "Uttara Kannada",
+    "region": "Coastal Karnataka",
+    "category": "fort_monument",
+    "interest_tags": [
+      "history",
+      "architecture",
+      "photography"
+    ],
+    "best_season": [
+      "September",
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "typical_duration_hours": 2,
+    "cost_level": "low",
+    "popularity_tier": 2,
+    "short_description": "Atmospheric 16th-century laterite fort with high crenellated bastions, secret wells, and moats on the banks of the Aghanashini River.",
+    "how_to_reach": "~11 km from Kumta and ~22 km from Gokarna just off NH 66.",
+    "lat": 14.4921,
+    "lng": 74.4253,
+    "coords_approx": true,
+    "heritage_era": "Gersoppa Nayaka Dynasty (Queen Chennabhairadevi, 16th century CE)",
+    "local_food": [
+      "Appemidi Mango Pickle",
+      "Neer Dosa",
+      "Sol Kadhi"
+    ],
+    "local_craft": "Laterite stone block dressing",
+    "cultural_note": "Built by Queen Chennabhairadevi, known to Portuguese traders as the 'Pepper Queen' for her control of spice trade through Gersoppa.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ಕೋಟೆಯ ಗೋಡೆಗಳನ್ನು ಯಾರು ಕಟ್ಟಿಸಿದರು?",
+        "transliteration": "Koteya godegalannu yaaru kattisidaru?",
+        "english": "Who built the walls of this fort?",
+        "when_to_use": "Speaking with the ASI caretaker.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "yana-caves-rocks",
+    "name": "Yana Rocks",
+    "kannada_name": "ಯಾಣದ ಬಂಡೆಗಳು",
+    "district": "Uttara Kannada",
+    "region": "Coastal Karnataka",
+    "category": "nature_hills",
+    "interest_tags": [
+      "nature",
+      "trekking",
+      "spirituality",
+      "photography"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "typical_duration_hours": 3.5,
+    "cost_level": "low",
+    "popularity_tier": 2,
+    "short_description": "Towering monolithic karst black limestone rock formations (Bhairaveshwara Shikhara and Mohini Shikhara) hidden inside dense evergreen forests.",
+    "how_to_reach": "~28 km from Kumta and ~40 km from Sirsi; requires a 1.5 km forest trail walk from the parking area.",
+    "lat": 14.5912,
+    "lng": 74.5614,
+    "coords_approx": true,
+    "heritage_era": "Geological Karst Formation & Ancient cave shrine",
+    "local_food": [
+      "Patrode",
+      "Jackfruit Chips",
+      "Kokum juice"
+    ],
+    "local_craft": "Bamboo walking sticks crafted by forest dwellers",
+    "cultural_note": "Mythology links the black soot-colored rocks to the ashes of demon Bhasmasura, burnt by Mohini's cosmic dance.",
+    "festivals": [
+      {
+        "name": "Yana Shivaratri Jathre",
+        "typical_month": "February",
+        "note": "Annual gathering when pilgrims visit the cave shrine dripping with natural cave water."
+      }
+    ],
+    "phrases": [
+      {
+        "kannada": "ಗುಹೆಯ ಒಳಗೆ ಹೋಗಲು ದಾರಿ ಇದೆಯೇ?",
+        "transliteration": "Guheya olage hoogalu daari ideye?",
+        "english": "Is there a path to enter the cave?",
+        "when_to_use": "Before entering the limestone fissure trail.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "karkala-gommateshwara",
+    "name": "Karkala",
+    "kannada_name": "ಕಾರ್ಕಳ",
+    "district": "Udupi",
+    "region": "Coastal Karnataka",
+    "category": "temple_heritage",
+    "interest_tags": [
+      "spirituality",
+      "architecture",
+      "history"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "typical_duration_hours": 3,
+    "cost_level": "low",
+    "popularity_tier": 2,
+    "short_description": "Historic town home to the 42-foot monolithic Gommateshwara statue on Gommata Betta and the multi-tiered Chaturmukha Basadi.",
+    "how_to_reach": "~38 km from Udupi and ~50 km from Mangaluru; frequent express buses connect.",
+    "lat": 13.2184,
+    "lng": 74.9982,
+    "coords_approx": true,
+    "heritage_era": "Bhairarasa Dynasty (1432 CE, King Veera Pandya)",
+    "local_food": [
+      "Mangalore Buns",
+      "Sajjige Baji",
+      "Goli Baje"
+    ],
+    "local_craft": "Stone sculpting and copper utensils",
+    "cultural_note": "The Chaturmukha Basadi is built symmetrically with four identical stone entrances and 108 pillars.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ಚತುರ್ಮುಖ ಬಸದಿಗೆ ಎಷ್ಟು ದೂರ?",
+        "transliteration": "Chaturmukha basadige eshtu doora?",
+        "english": "How far is the Chaturmukha Basadi?",
+        "when_to_use": "Walking from Gommata Betta.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "st-marys-island-malpe",
+    "name": "St. Mary's Island & Malpe",
+    "kannada_name": "ಸೇಂಟ್ ಮೇರೀಸ್ ದ್ವೀಪ ಹಾಗೂ ಮಲ್ಪೆ",
+    "district": "Udupi",
+    "region": "Coastal Karnataka",
+    "category": "coastal_beach",
+    "interest_tags": [
+      "coastal",
+      "nature",
+      "photography"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "typical_duration_hours": 3.5,
+    "cost_level": "medium",
+    "popularity_tier": 1,
+    "short_description": "A geological marvel of hexagonal columnar basaltic rock formations jutting out of the Arabian Sea, accessible by ferry from Malpe harbour.",
+    "how_to_reach": "Ferry operates from Malpe Beach, ~6 km west of Udupi town center.",
+    "lat": 13.3762,
+    "lng": 74.6738,
+    "coords_approx": true,
+    "heritage_era": "Prehistoric Deccan Volcanism (Declared National Geological Monument)",
+    "local_food": [
+      "Fish Thali",
+      "Neer Dosa",
+      "Anjal Masala Fry"
+    ],
+    "local_craft": "Marine fishing net craft at Malpe harbour",
+    "cultural_note": "Formed when Madagascar split from the Indian plate during sub-aerial volcanic activity 88 million years ago.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ದ್ವೀಪಕ್ಕೆ ಕೊನೆಯ ಬೋಟ್ ಯಾವಾಗ ಬರುತ್ತದೆ?",
+        "transliteration": "Dweepakke koneya boat yaavaaga baruttade?",
+        "english": "When does the last boat return from the island?",
+        "when_to_use": "At Malpe jetty ticket booth.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "udupi-heritage-matha",
+    "name": "Udupi Car Street & Temples",
+    "kannada_name": "ಉಡುಪಿ ಶ್ರೀ ಕೃಷ್ಣ ಮಠ",
+    "district": "Udupi",
+    "region": "Coastal Karnataka",
+    "category": "temple_heritage",
+    "interest_tags": [
+      "spirituality",
+      "food",
+      "architecture",
+      "history"
+    ],
+    "best_season": [
+      "September",
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "typical_duration_hours": 3.5,
+    "cost_level": "low",
+    "popularity_tier": 1,
+    "short_description": "The Dvaita philosophical heart of Karnataka, famed for the 13th-century Sri Krishna Matha, Kanakana Kindi window, and eight historic Ashta Mathas.",
+    "how_to_reach": "Major railhead on the Konkan Railway and hub on NH 66; ~60 km north of Mangaluru.",
+    "lat": 13.3409,
+    "lng": 74.7521,
+    "coords_approx": true,
+    "heritage_era": "Dvaita Vedanta Founded by Sri Madhvacharya (13th century CE)",
+    "local_food": [
+      "Udupi Sambar",
+      "Bisi Bele Bath",
+      "Goli Baje",
+      "Mitai",
+      "Kashi Halwa"
+    ],
+    "local_craft": "Pure silver idol jewellery and temple chariot woodcarving",
+    "cultural_note": "Saint Kanakadasa, denied entry due to his caste, was blessed when the idol of Lord Krishna turned around to face him through a crack in the wall.",
+    "festivals": [
+      {
+        "name": "Paryaya Utsava",
+        "typical_month": "January",
+        "note": "Biennial transfer of temple worship rights among the heads of the eight Ashta Mathas."
+      }
+    ],
+    "phrases": [
+      {
+        "kannada": "ಕನಕನ ಕಿಂಡಿ ದರ್ಶನ ಎಲ್ಲಿ?",
+        "transliteration": "Kanakana kindi darshana elli?",
+        "english": "Where is the viewing point for Kanakana Kindi?",
+        "when_to_use": "Inside the Sri Krishna temple complex.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "anegudde-kumbhashi",
+    "name": "Anegudde",
+    "kannada_name": "ಆನೆಗುಡ್ಡೆ",
+    "district": "Udupi",
+    "region": "Coastal Karnataka",
+    "category": "temple_heritage",
+    "interest_tags": [
+      "spirituality",
+      "quiet_retreat"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "typical_duration_hours": 1.5,
+    "cost_level": "low",
+    "popularity_tier": 2,
+    "short_description": "Hilltop temple dedicated to Lord Vinayaka (Siddhi Vinayaka) overlooking coastal coconut groves, one of seven Mukti Sthalas of Parashurama Kshetra.",
+    "how_to_reach": "~30 km north of Udupi and ~9 km south of Kundapura near Kumbhashi village.",
+    "lat": 13.5932,
+    "lng": 74.7042,
+    "coords_approx": true,
+    "heritage_era": "Ancient Coastal Mukti Sthala tradition",
+    "local_food": [
+      "Panchakajjaya prasaada",
+      "Appa (steamed sweet dumplings)"
+    ],
+    "local_craft": "Brass bell casting",
+    "cultural_note": "The name Anegudde translates to 'Elephant Hill' referring to Lord Ganesha presiding over the coastal plateau.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ಮಹಾಪ್ರಸಾದದ ಸಮಯ ಯಾವಾಗ?",
+        "transliteration": "Mahaaprasaadada samaya yaavaaga?",
+        "english": "What time is the temple lunch prasaada served?",
+        "when_to_use": "Around noon at the dining hall.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "bhatkal-old-port",
+    "name": "Bhatkal Old Port",
+    "kannada_name": "ಭಟ್ಕಳ",
+    "district": "Uttara Kannada",
+    "region": "Coastal Karnataka",
+    "category": "fort_monument",
+    "interest_tags": [
+      "history",
+      "architecture",
+      "coastal"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "typical_duration_hours": 2.5,
+    "cost_level": "low",
+    "popularity_tier": 3,
+    "short_description": "Historical port town with unique coastal Nawayath heritage, medieval stone Jain basadis, Dutch graves, and old wooden houses.",
+    "how_to_reach": "Major stop on Konkan Railway and NH 66; ~40 km north of Kundapura.",
+    "lat": 13.9882,
+    "lng": 74.5521,
+    "coords_approx": true,
+    "heritage_era": "Vijayanagara, Haduvalli & Nawayath merchant era (14th–18th century CE)",
+    "local_food": [
+      "Bhatkalli Biryani",
+      "Haldi Leaf Fish",
+      "Kozhi Appam"
+    ],
+    "local_craft": "Intricate wooden balustrades and boat carpentry",
+    "cultural_note": "Bhatkal was the chief seaport of the Vijayanagara Empire through which Persian warhorses were imported.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ಹಳೆಯ ಬಂದರು ಎಲ್ಲಿ ಬರುತ್ತದೆ?",
+        "transliteration": "Haleya bandaru elli baruttade?",
+        "english": "Where is the old port located?",
+        "when_to_use": "Asking for directions near the estuary.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "honnavar-estuary-boardwalk",
+    "name": "Honnavar Estuary",
+    "kannada_name": "ಹೊನ್ನಾವರ ಶರಾವತಿ ಹಿನ್ನೀರು",
+    "district": "Uttara Kannada",
+    "region": "Coastal Karnataka",
+    "category": "coastal_beach",
+    "interest_tags": [
+      "nature",
+      "coastal",
+      "photography",
+      "quiet_retreat"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "typical_duration_hours": 2.5,
+    "cost_level": "low",
+    "popularity_tier": 3,
+    "short_description": "The serene meeting point of the Sharavathi River and the sea, known for the Kandla mangrove boardwalk, boat rides, and coastal birdlife.",
+    "how_to_reach": "Located on NH 66, ~20 km north of Kumta and ~45 km south of Karwar.",
+    "lat": 14.2811,
+    "lng": 74.4512,
+    "coords_approx": true,
+    "heritage_era": "Ancient Gersoppa estuary waterway",
+    "local_food": [
+      "Mangrove crab fry",
+      "Neer Dosa",
+      "Sol Kadhi"
+    ],
+    "local_craft": "Traditional canoe carving from jackfruit wood",
+    "cultural_note": "The Sharavathi backwaters around Honnavar support fragile mangrove ecosystems nurtured by local fisherfolk.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ಮ್ಯಾಂಗ್ರೋವ್ ವಾಕ್‌ಗೆ ಟಿಕೆಟ್ ಎಲ್ಲಿದೆ?",
+        "transliteration": "Mangrove walk-ge ticket ellide?",
+        "english": "Where is the ticket counter for the mangrove walk?",
+        "when_to_use": "At Kandla eco-trail entrance.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "sasihithlu-estuary-beach",
+    "name": "Sasihithlu",
+    "kannada_name": "ಸಸಿಹಿತ್ಲು ಕಡಲತೀರ",
+    "district": "Dakshina Kannada",
+    "region": "Coastal Karnataka",
+    "category": "coastal_beach",
+    "interest_tags": [
+      "coastal",
+      "nature",
+      "quiet_retreat"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "typical_duration_hours": 2,
+    "cost_level": "low",
+    "popularity_tier": 3,
+    "short_description": "A pristine sandspit beach where the Pavanje and Nandini rivers converge with the Arabian Sea, prized for surf breaks and quiet sunset views.",
+    "how_to_reach": "~25 km north of Mangaluru and ~6 km off the Mukka highway turnoff.",
+    "lat": 13.0319,
+    "lng": 74.7921,
+    "coords_approx": true,
+    "heritage_era": "Tulu Nadu coastal estuarine landscape",
+    "local_food": [
+      "Neer Dosa with Chutney",
+      "Fish Fry",
+      "Coconut water"
+    ],
+    "local_craft": "Shell crafts and surfboards",
+    "cultural_note": "Site of India's Open Surfing festivals, preserving an uncluttered and non-commercialized coastline.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ನದಿಯ ಸಂಗಮ ನೋಡಲು ಇಲ್ಲಿಂದ ಹೋಗಬಹುದೇ?",
+        "transliteration": "Nadiya sangama noodalu illinda hoogabahude?",
+        "english": "Can we walk to the river confluence from here?",
+        "when_to_use": "Walking on the Sasihithlu sand bar.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "agumbe-rainforest",
+    "name": "Agumbe",
+    "kannada_name": "ಆಗುಂಬೆ",
+    "district": "Shivamogga",
+    "region": "Malnad",
+    "category": "nature_hills",
+    "interest_tags": [
+      "nature",
+      "trekking",
+      "photography",
+      "quiet_retreat"
+    ],
+    "best_season": [
+      "September",
+      "October",
+      "November",
+      "December",
+      "January"
+    ],
+    "typical_duration_hours": 3.5,
+    "cost_level": "low",
+    "popularity_tier": 2,
+    "short_description": "Known as the Cherrapunji of the South, famous for dense rainforest canopies, King Cobra research, Onake Abbi and Barkana Falls.",
+    "how_to_reach": "Located atop the Agumbe Ghat on SH 65; accessible by KSRTC buses from Thirthahalli, Shivamogga, or Udupi.",
+    "lat": 13.5074,
+    "lng": 75.0933,
+    "coords_approx": true,
+    "heritage_era": "Pre-colonial Malnad ghat passage and rainforest biosphere",
+    "local_food": [
+      "Halasina Hannina Kadabu",
+      "Kashaya (herbal brew)",
+      "Thotapuri Mango Gojju"
+    ],
+    "local_craft": "Areca nut leaf plate pressing and cane baskets",
+    "cultural_note": "Setting for R.K. Narayan's televised Malgudi Days in the 1980s.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ಮಳೆಗಾಲದಲ್ಲಿ ಜಿಗಣೆಗಳು ಹೆಚ್ಚಿರುತ್ತವೆಯೇ?",
+        "transliteration": "Malegaaladalli jigadegalu hecchiruttaveye?",
+        "english": "Are leeches common in the rain?",
+        "when_to_use": "Preparing for rainforest walks.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "kavaledurga-hill-fort",
+    "name": "Kavaledurga",
+    "kannada_name": "ಕವಲೇದುರ್ಗ ಬೆಟ್ಟದ ಕೋಟೆ",
+    "district": "Shivamogga",
+    "region": "Malnad",
+    "category": "fort_monument",
+    "interest_tags": [
+      "trekking",
+      "history",
+      "nature",
+      "quiet_retreat",
+      "photography"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "typical_duration_hours": 3.5,
+    "cost_level": "low",
+    "popularity_tier": 3,
+    "short_description": "A three-tiered 9th-to-16th-century stone hill fort fortified by the Keladi Nayakas, featuring mossy ramparts and views toward Varahi backwaters.",
+    "how_to_reach": "Roughly 18 km from Thirthahalli town in Shivamogga district; reached by vehicle and climb.",
+    "lat": 13.7219,
+    "lng": 75.1219,
+    "coords_approx": true,
+    "heritage_era": "Keladi Nayaka Dynasty (16th–18th century CE)",
+    "local_food": [
+      "Kadubu",
+      "Akki Rotti",
+      "Mulka"
+    ],
+    "local_craft": "Hase Chittara folk wall-art motifs in the Sagar–Thirthahalli belt",
+    "cultural_note": "Kavaledurga served as the final stronghold of Queen Virammaji of Keladi before the Mysuru siege in 1763.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ಕೋಟೆಯ ಮೇಲಕ್ಕೆ ಹತ್ತಲು ಎಷ್ಟು ಸಮಯ ಬೇಕು?",
+        "transliteration": "Koteya melakke hattalu eshtu samaya beku?",
+        "english": "How much time does it take to climb to the top of the fort?",
+        "when_to_use": "At the fort entrance gate before starting the climb.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "ikkeri-keladi-nayakas",
+    "name": "Ikkeri & Keladi",
+    "kannada_name": "ಇಕ್ಕೇರಿ ಮತ್ತು ಕೆಳದಿ",
+    "district": "Shivamogga",
+    "region": "Malnad",
+    "category": "temple_heritage",
+    "interest_tags": [
+      "architecture",
+      "history",
+      "spirituality"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "typical_duration_hours": 3,
+    "cost_level": "low",
+    "popularity_tier": 3,
+    "short_description": "Twin capitals of the Keladi Nayaka kingdom; Ikkeri features the Aghoreshvara Temple, while Keladi hosts the Rameshwara Temple and museum.",
+    "how_to_reach": "Located ~6–10 km from Sagar railhead in Shivamogga district; connected by local buses and auto-rickshaws.",
+    "lat": 14.1284,
+    "lng": 75.0195,
+    "coords_approx": true,
+    "heritage_era": "Keladi Nayaka Dynasty (16th–17th century CE)",
+    "local_food": [
+      "Benne Dose",
+      "Malnad Thali with Tambli",
+      "Appemidi Pickle"
+    ],
+    "local_craft": "Sandalwood and rosewood carving in Sagar town",
+    "cultural_note": "Queen Chennamma of Keladi gave asylum to Rajaram Chhatrapati (son of Shivaji) here when pursued by Aurangzeb's Mughal armies.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ಅಘೋರೇಶ್ವರ ದೇವಾಲಯಕ್ಕೆ ದಾರಿ ಯಾವುದು?",
+        "transliteration": "Aghoreshwara devaalayakke daari yaavudu?",
+        "english": "Which is the road to the Aghoreshvara Temple?",
+        "when_to_use": "Asking at Sagar bus terminus.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "belur-halebidu-hoysala",
+    "name": "Belur & Halebidu",
+    "kannada_name": "ಬೇಲೂರು ಮತ್ತು ಹಳೇಬೀಡು",
+    "district": "Hassan",
+    "region": "Malnad",
+    "category": "temple_heritage",
+    "interest_tags": [
+      "architecture",
+      "history",
+      "photography",
+      "spirituality"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "typical_duration_hours": 5,
+    "cost_level": "medium",
+    "popularity_tier": 1,
+    "short_description": "Heartland of the Hoysala Empire featuring the Chennakeshava Temple at Belur and twin-shrined Hoysaleshwara complex at Halebidu.",
+    "how_to_reach": "Roughly 35–40 km from Hassan railhead; frequent buses connect Hassan, Belur, and Halebidu.",
+    "lat": 13.1656,
+    "lng": 75.8592,
+    "coords_approx": true,
+    "heritage_era": "Hoysala Empire (12th century CE, King Vishnuvardhana)",
+    "local_food": [
+      "Akki Rotti",
+      "Kotte Kadubu",
+      "Chikkamagaluru Filter Coffee"
+    ],
+    "local_craft": "Soapstone miniature sculpture workshops in Halebidu",
+    "cultural_note": "Inscribed along the friezes are names of individual Hoysala master sculptors such as Dasoja and Chavana.",
+    "festivals": [
+      {
+        "name": "Hoysala Mahotsava",
+        "typical_month": "March",
+        "note": "Classical dance and music festival held against the temple backdrop."
+      }
+    ],
+    "phrases": [
+      {
+        "kannada": "ಶಿಲಾಬಾಲಿಕೆಯರ ಶಿಲ್ಪಗಳ ಬಗ್ಗೆ ಹೇಳಿ",
+        "transliteration": "Shilaabaalikeyara shilpagala bagge heli",
+        "english": "Please tell us about the Shilabalika bracket sculptures",
+        "when_to_use": "Engaging a monument guide at Belur.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "jog-falls-valley",
+    "name": "Jog Falls",
+    "kannada_name": "ಜೋಗ ಜಲಪಾತ",
+    "district": "Shivamogga",
+    "region": "Malnad",
+    "category": "nature_hills",
+    "interest_tags": [
+      "nature",
+      "photography"
+    ],
+    "best_season": [
+      "July",
+      "August",
+      "September",
+      "October",
+      "November"
+    ],
+    "typical_duration_hours": 3,
+    "cost_level": "medium",
+    "popularity_tier": 1,
+    "short_description": "One of India's grandest tiered waterfalls where the Sharavathi River plunges 253 metres in four distinct cascades: Raja, Roarer, Rocket, and Rani.",
+    "how_to_reach": "~30 km from Sagar town railhead; well connected by KSRTC buses.",
+    "lat": 14.2289,
+    "lng": 74.8123,
+    "coords_approx": true,
+    "heritage_era": "Natural cataract on the Western Ghats edge",
+    "local_food": [
+      "Chilli Bhajji",
+      "Akki Rotti with Kaalu Saaru",
+      "Kashaya"
+    ],
+    "local_craft": "Sandalwood oil and soapstone carvings at the tourist bazaar",
+    "cultural_note": "Celebrated in Kannada poetry and landscape lore as the crown jewel of the Sahyadri mountains.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ಜಲಪಾತದ ತಳಕ್ಕೆ ಇಳಿಯಲು ಮೆಟ್ಟಿಲುಗಳು ತೆರೆದಿವೆಯೇ?",
+        "transliteration": "Jalapaatada talakke iliyalu mettilugalu terediveye?",
+        "english": "Are the steps open to descend to the base of the falls?",
+        "when_to_use": "Inquiring at the forest viewpoint gate.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "mullayanagiri-bababudan",
+    "name": "Mullayanagiri & Baba Budangiri",
+    "kannada_name": "ಮುಳ್ಳಯ್ಯನಗಿರಿ ಮತ್ತು ಬಾಬಾಬುಡನ್‌ಗಿರಿ",
+    "district": "Chikkamagaluru",
+    "region": "Malnad",
+    "category": "nature_hills",
+    "interest_tags": [
+      "trekking",
+      "nature",
+      "photography"
+    ],
+    "best_season": [
+      "September",
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "typical_duration_hours": 4.5,
+    "cost_level": "medium",
+    "popularity_tier": 1,
+    "short_description": "The highest peak in Karnataka (1,930 m) offering sweeping views over the coffee country, paired with the syncretic shrine of Dattatreya Peetha.",
+    "how_to_reach": "~22 km from Chikkamagaluru town; accessible by local 4x4 jeep or road.",
+    "lat": 13.3912,
+    "lng": 75.7214,
+    "coords_approx": true,
+    "heritage_era": "Sufi Baba Budan 17th century coffee lore & sacred hills",
+    "local_food": [
+      "Pure Arabica Coffee",
+      "Akki Rotti",
+      "Kaadu Koli Saaru"
+    ],
+    "local_craft": "Artisanal coffee bean processing and wood root carvings",
+    "cultural_note": "Sufi saint Baba Budan smuggled seven raw coffee beans from Yemen in his belt in the 1670s, planting them on these slopes and birthing Indian coffee.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ಶಿಖರಕ್ಕೆ ಹೋಗುವ ದಾರಿ ಹಸನಾಗಿದೆಯೇ?",
+        "transliteration": "Shikharakke hooguva daari hasanaagideye?",
+        "english": "Is the road to the summit in good condition?",
+        "when_to_use": "Checking with jeep drivers in Chikkamagaluru.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "kudremukha-kalasa",
+    "name": "Kudremukha & Kalasa",
+    "kannada_name": "ಕುದುರೆಮುಖ ಮತ್ತು ಕಳಸ",
+    "district": "Chikkamagaluru",
+    "region": "Malnad",
+    "category": "nature_hills",
+    "interest_tags": [
+      "trekking",
+      "nature",
+      "spirituality"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January"
+    ],
+    "typical_duration_hours": 4,
+    "cost_level": "low",
+    "popularity_tier": 2,
+    "short_description": "Horse-faced shola-grassland mountain peak protected inside Kudremukha National Park, paired with the sacred temple town of Kalasa on the Bhadra River.",
+    "how_to_reach": "~110 km from Mangaluru and ~85 km from Chikkamagaluru; trek requires forest department permit.",
+    "lat": 13.2301,
+    "lng": 75.3621,
+    "coords_approx": true,
+    "heritage_era": "Shola-grassland ecology & Ancient Agasthya mythology",
+    "local_food": [
+      "Jackfruit Kadabu",
+      "Filter Coffee",
+      "Halasinakai chips"
+    ],
+    "local_craft": "Tea and organic spices packaging around Kalasa",
+    "cultural_note": "Declared an international biodiversity hotspot, preserving the origin springs of the Tunga, Bhadra, and Netravati rivers.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ಚಾರಣಕ್ಕೆ ಅರಣ್ಯ ಇಲಾಖೆ ಅನುಮತಿ ಎಲ್ಲಿ ಪಡೆಯಬೇಕು?",
+        "transliteration": "Charaanake aranya ilaakhe anumati elli padeyabeku?",
+        "english": "Where do we obtain the forest department trek permit?",
+        "when_to_use": "At Kudremukha forest checkpoint.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "sringeri-sharada-peetham",
+    "name": "Sringeri",
+    "kannada_name": "ಶೃಂಗೇರಿ",
+    "district": "Chikkamagaluru",
+    "region": "Malnad",
+    "category": "temple_heritage",
+    "interest_tags": [
+      "spirituality",
+      "architecture",
+      "history"
+    ],
+    "best_season": [
+      "September",
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "typical_duration_hours": 3.5,
+    "cost_level": "low",
+    "popularity_tier": 1,
+    "short_description": "The primary southern matha established by Adi Shankaracharya on the banks of the Tunga, noted for the Vidyashankara Temple with zodiac pillars.",
+    "how_to_reach": "~85 km from Udupi and ~90 km from Chikkamagaluru; buses connect via Agumbe or Balehonnur.",
+    "lat": 13.4192,
+    "lng": 75.2571,
+    "coords_approx": true,
+    "heritage_era": "Advaita Vedanta Founded by Adi Shankaracharya & Vijayanagara Era (14th century CE)",
+    "local_food": [
+      "Tunga temple prasaada",
+      "Tondekai palya",
+      "Appemidi Upkari"
+    ],
+    "local_craft": "Traditional Sanskrit manuscript palm-leaf keeping and bronze craft",
+    "cultural_note": "The twelve pillars in the Vidyashankara Temple are sculpted with zodiac signs such that morning sunlight hits each sign in its corresponding solar month.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ತುಂಗಾ ನದಿಯಲ್ಲಿ ಮೀನುಗಳಿಗೆ ಆಹಾರ ಹಾಕಬಹುದೇ?",
+        "transliteration": "Tungaa nadiyalli meenugalige aahaara haakabahude?",
+        "english": "Can we feed the sacred fish in the Tunga river?",
+        "when_to_use": "At the river steps behind the temple.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "madikeri-kodagu-heritage",
+    "name": "Madikeri",
+    "kannada_name": "ಮಡಿಕೇರಿ",
+    "district": "Kodagu",
+    "region": "Malnad",
+    "category": "nature_hills",
+    "interest_tags": [
+      "nature",
+      "history",
+      "food",
+      "photography"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "typical_duration_hours": 4,
+    "cost_level": "medium",
+    "popularity_tier": 1,
+    "short_description": "The misty hill capital of Kodagu, noted for the 17th-century Madikeri Fort, Raja's Seat sunset garden, Omkareshwara Temple, and coffee estates.",
+    "how_to_reach": "~120 km from Mysuru and ~135 km from Mangaluru along NH 275.",
+    "lat": 12.4244,
+    "lng": 75.7382,
+    "coords_approx": true,
+    "heritage_era": "Haleri Rajas of Kodagu (17th–19th century CE)",
+    "local_food": [
+      "Pandi Curry",
+      "Kadambuttu (steamed rice balls)",
+      "Noolputtu",
+      "Coorg Honey"
+    ],
+    "local_craft": "Kodagu traditional silver jewellery and hand-woven warrior daggers (Peeche Katti)",
+    "cultural_note": "Unique martial and agricultural culture honoring ancestors and firearms through the Kailpodh and Puthari harvest festivals.",
+    "festivals": [
+      {
+        "name": "Madikeri Dasara",
+        "typical_month": "October",
+        "note": "Famous night carnival with ten elaborate moving mythological tableau floats."
+      }
+    ],
+    "phrases": [
+      {
+        "kannada": "ರಾಜಾಸೀಟ್‌ನಿಂದ ಸೂರ್ಯಾಸ್ತ ಚೆನ್ನಾಗಿ ಕಾಣಿಸುತ್ತದೆಯೇ?",
+        "transliteration": "Rajaseat-ninda sooryaasta chennaagi kaanisuttadaye?",
+        "english": "Can we see a good sunset from Raja's Seat?",
+        "when_to_use": "Visiting in the late afternoon.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "talakaveri-bhagamandala",
+    "name": "Talakaveri & Bhagamandala",
+    "kannada_name": "ತಲಕಾವೇರಿ ಮತ್ತು ಭಾಗಮಂಡಲ",
+    "district": "Kodagu",
+    "region": "Malnad",
+    "category": "temple_heritage",
+    "interest_tags": [
+      "spirituality",
+      "nature",
+      "trekking"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "typical_duration_hours": 3.5,
+    "cost_level": "low",
+    "popularity_tier": 2,
+    "short_description": "The sacred birthplace of the River Kaveri on the Brahmagiri slopes, accompanied by the river confluence and Kerala-style shrines at Bhagamandala.",
+    "how_to_reach": "~44 km west of Madikeri; accessible by road and local buses.",
+    "lat": 12.3852,
+    "lng": 75.4921,
+    "coords_approx": true,
+    "heritage_era": "Sacred Kaveri origin traditions & Haleri kings",
+    "local_food": [
+      "Akki Rotti with Ellu Pajji",
+      "Kappi",
+      "Orange Honey"
+    ],
+    "local_craft": "Brass pooja water vessels",
+    "cultural_note": "Every year on Tula Sankramana, water erupts from the small spring at a predetermined astrological moment, celebrated across Kodagu.",
+    "festivals": [
+      {
+        "name": "Tula Sankramana (Kaveri Theerthodbhava)",
+        "typical_month": "October",
+        "note": "Holy day celebrating the perennial rebirth of River Kaveri."
+      }
+    ],
+    "phrases": [
+      {
+        "kannada": "ತೀರ್ಥೋದ್ಭವದ ದಿನಾಂಕ ಯಾವುದು?",
+        "transliteration": "Theerthodbhavada dinaanka yaavudu?",
+        "english": "What is the date for the holy spring resurgence?",
+        "when_to_use": "Planning autumn visits.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "mandalpatti-ridge-view",
+    "name": "Mandalpatti",
+    "kannada_name": "ಮಂಡಲಪಟ್ಟಿ",
+    "district": "Kodagu",
+    "region": "Malnad",
+    "category": "nature_hills",
+    "interest_tags": [
+      "nature",
+      "trekking",
+      "photography"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "typical_duration_hours": 3,
+    "cost_level": "medium",
+    "popularity_tier": 2,
+    "short_description": "A windswept grass-covered hill ridge overlooking the Pushpagiri wildlife sanctuary, famous for sea-of-clouds morning views and jeep trails.",
+    "how_to_reach": "~18 km from Madikeri; final 4 km requires local 4-wheel-drive jeep hire.",
+    "lat": 12.5081,
+    "lng": 75.7022,
+    "coords_approx": true,
+    "heritage_era": "Sahyadri Wilderness Ridge",
+    "local_food": [
+      "Pandi Curry",
+      "Steamed Akki Rotti"
+    ],
+    "local_craft": "Wild spice powders and raw estate coffee",
+    "cultural_note": "Known in local Kodava lore as 'Mugilu-pete' or the marketplace of clouds.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ಜೀಪ್ ಬಾಡಿಗೆ ಎಷ್ಟು ಆಗುತ್ತದೆ?",
+        "transliteration": "Jeep baadige eshtu aaguttade?",
+        "english": "How much is the jeep fare to the peak?",
+        "when_to_use": "At the Mandalpatti jeep stand.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "kote-betta-offbeat",
+    "name": "Kote Betta",
+    "kannada_name": "ಕೋಟೆ ಬೆಟ್ಟ",
+    "district": "Kodagu",
+    "region": "Malnad",
+    "category": "nature_hills",
+    "interest_tags": [
+      "trekking",
+      "nature",
+      "quiet_retreat"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "typical_duration_hours": 4,
+    "cost_level": "low",
+    "popularity_tier": 3,
+    "short_description": "Third highest peak in Kodagu resembling a fortress fort, offering a quiet day hike through coffee plantations and grassy ridgelines.",
+    "how_to_reach": "~30 km from Madikeri towards Somwarpet; trail starts from Hattihole village.",
+    "lat": 12.5892,
+    "lng": 75.8341,
+    "coords_approx": true,
+    "heritage_era": "Ancient hill shrine tradition",
+    "local_food": [
+      "Coorg Coffee",
+      "Kadumbuttu with vegetable curry"
+    ],
+    "local_craft": "Local honey and pepper harvesting",
+    "cultural_note": "Legend recounts that the Pandavas spent a period of their exile in these caves.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ಬೆಟ್ಟದ ಮೇಲೆ ದೇವಸ್ಥಾನ ಇದೆಯೇ?",
+        "transliteration": "Bettada mele devasthana ideye?",
+        "english": "Is there a temple at the top of the hill?",
+        "when_to_use": "Asking villagers at Hattihole.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "nagara-fort-bidanur",
+    "name": "Nagara Fort",
+    "kannada_name": "ನಗರ ಕೋಟೆ (ಬಿದನೂರು)",
+    "district": "Shivamogga",
+    "region": "Malnad",
+    "category": "fort_monument",
+    "interest_tags": [
+      "history",
+      "architecture",
+      "quiet_retreat",
+      "photography"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "typical_duration_hours": 2.5,
+    "cost_level": "low",
+    "popularity_tier": 3,
+    "short_description": "The historic capital of Bidanur under Shivappa Nayaka, featuring ancient palace water tanks, watchtowers, and laterite bastions surrounded by lush hills.",
+    "how_to_reach": "~18 km from Hosanagara and ~85 km from Shivamogga city.",
+    "lat": 13.8219,
+    "lng": 75.0241,
+    "coords_approx": true,
+    "heritage_era": "Keladi Nayaka Kingdom (1640 CE, King Shivappa Nayaka)",
+    "local_food": [
+      "Hosanagara Thatte Idli",
+      "Malnad Tambli",
+      "Filter Coffee"
+    ],
+    "local_craft": "Chittara folk paintings and areca-wood crafts",
+    "cultural_note": "Bidanur was once so prosperous as a spice and diamond trading centre that European travelers named it the 'City of Gold'.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ಅರಮನೆಯ ನೀರಿನ ಕೊಳಗಳು ಎಲ್ಲಿವೆ?",
+        "transliteration": "Aramaneya neerina kolagalu ellive?",
+        "english": "Where are the palace water pools?",
+        "when_to_use": "Walking through the inner citadel.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "balligavi-kedareshvara",
+    "name": "Balligavi",
+    "kannada_name": "ಬಳ್ಳಿಗಾವಿ",
+    "district": "Shivamogga",
+    "region": "Malnad",
+    "category": "temple_heritage",
+    "interest_tags": [
+      "architecture",
+      "history",
+      "spirituality",
+      "quiet_retreat"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "typical_duration_hours": 2.5,
+    "cost_level": "low",
+    "popularity_tier": 3,
+    "short_description": "Birthplace of saint Allama Prabhu and Queen Shantala, famed for the 11th-century Western Chalukya Kedareshvara Temple with filigree soapstone lattices.",
+    "how_to_reach": "~22 km from Shikaripura town and ~70 km from Shivamogga city.",
+    "lat": 14.3981,
+    "lng": 75.2512,
+    "coords_approx": true,
+    "heritage_era": "Western Chalukya & Hoysala (11th–12th century CE)",
+    "local_food": [
+      "Jolada Rotti",
+      "Kaalu Palya",
+      "Shikaripura tea"
+    ],
+    "local_craft": "Sculptors' guild tradition (Dakshina Kedara school)",
+    "cultural_note": "Celebrated in epigraphs as an educational hub with five great monasteries (Pancha-Mathas) imparting Vedic, Jain, and Buddhist knowledge.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ಕೇದಾರೇಶ್ವರ ದೇವಸ್ಥಾನ ಎಷ್ಟು ಪ್ರಾಚೀನ?",
+        "transliteration": "Kedaareshwara devasthaana eshtu praacheena?",
+        "english": "How ancient is the Kedareshvara Temple?",
+        "when_to_use": "At the ASI monument board.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "lakkundi-stepwells-temples",
+    "name": "Lakkundi",
+    "kannada_name": "ಲಕ್ಕುಂಡಿ",
+    "district": "Gadag",
+    "region": "Kittur Karnataka",
+    "category": "stepwell_architecture",
+    "interest_tags": [
+      "architecture",
+      "history",
+      "photography",
+      "quiet_retreat"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "typical_duration_hours": 3.5,
+    "cost_level": "low",
+    "popularity_tier": 3,
+    "short_description": "An quiet village known for Later Chalukya stone temples, ornate stepwells such as Musukina Bavi, and Brahma Jinalaya.",
+    "how_to_reach": "Located near Gadag town along the Hubballi–Hosapete highway corridor; accessible by local buses or taxis from Gadag.",
+    "lat": 15.3895,
+    "lng": 75.7169,
+    "coords_approx": true,
+    "heritage_era": "Kalyani Chalukya & Seuna (10th–12th century CE)",
+    "local_food": [
+      "Jolada Rotti",
+      "Ennegayi",
+      "Shenga Chutney Pudi"
+    ],
+    "local_craft": "Stone carving heritage and handloom cotton weaving in the broader Gadag belt",
+    "cultural_note": "Lakkundi is historically associated with Daana Chintamani Attimabbe, a patron of Jain literature.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ಮುಸುಕಿನ ಬಾವಿ ನೋಡಲು ದಾರಿ ಯಾವುದು?",
+        "transliteration": "Musukina baavi noodalu daari yaavudu?",
+        "english": "Which is the way to see the Musukina Bavi stepwell?",
+        "when_to_use": "Locating the famous stepped well in Lakkundi.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "aihole-cradle-temples",
+    "name": "Aihole",
+    "kannada_name": "ಐಹೊಳೆ",
+    "district": "Bagalkote",
+    "region": "Kittur Karnataka",
+    "category": "temple_heritage",
+    "interest_tags": [
+      "architecture",
+      "history",
+      "photography"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "typical_duration_hours": 4,
+    "cost_level": "low",
+    "popularity_tier": 2,
+    "short_description": "Cradle of Indian temple architecture featuring over 120 stone temples, including the apsidal Durga Temple and Lad Khan shrine.",
+    "how_to_reach": "~34 km from Badami railhead and ~14 km from Pattadakal; connected by local buses and taxis.",
+    "lat": 16.0194,
+    "lng": 75.8812,
+    "coords_approx": true,
+    "heritage_era": "Badami Chalukya Dynasty (5th–8th century CE)",
+    "local_food": [
+      "Jolada Rotti",
+      "Madike Kaalu Palya",
+      "Pundi Pallya"
+    ],
+    "local_craft": "Ilkal saris and Guledgudda khana fabric weaving in adjacent towns",
+    "cultural_note": "The Meguti hill inscription in Aihole, composed by Ravikirti in 634 CE, records Pulakeshin II's victory over Harshavardhana.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ದುರ್ಗಾ ದೇವಾಲಯದ ಶಿಲ್ಪಗಳು ಎಲ್ಲಿವೆ?",
+        "transliteration": "Durgaa devaalayada shilpagalu ellive?",
+        "english": "Where are the sculptures of the Durga temple?",
+        "when_to_use": "Asking monument attendants.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "badami-cave-temples",
+    "name": "Badami",
+    "kannada_name": "ಬಾದಾಮಿ",
+    "district": "Bagalkote",
+    "region": "Kittur Karnataka",
+    "category": "temple_heritage",
+    "interest_tags": [
+      "architecture",
+      "history",
+      "photography",
+      "trekking"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "typical_duration_hours": 4.5,
+    "cost_level": "medium",
+    "popularity_tier": 1,
+    "short_description": "The dramatic red-sandstone capital of the Early Chalukyas, featuring four rock-cut cave temples, Bhutanatha Temple on Agastya Lake, and the north fort.",
+    "how_to_reach": "Connected by Badami railway station; well linked by buses from Hubballi, Belagavi, and Bagalkote.",
+    "lat": 15.9189,
+    "lng": 75.6769,
+    "coords_approx": true,
+    "heritage_era": "Badami Chalukya (6th–8th century CE, Pulakeshin I & successors)",
+    "local_food": [
+      "Jolada Rotti Oota",
+      "Shenga Holige",
+      "Girmit",
+      "Mirchi Bhajji"
+    ],
+    "local_craft": "Red sandstone miniature carvings and Ilkal handloom saris",
+    "cultural_note": "The cave temples carved out of the cliffface represent a synthesis of Shaiva, Vaishnava, and Jain iconography.",
+    "festivals": [
+      {
+        "name": "Banashankari Jathre",
+        "typical_month": "January",
+        "note": "Month-long cultural fair and chariot festival at nearby Banashankari temple."
+      }
+    ],
+    "phrases": [
+      {
+        "kannada": "ಗುಹೆ ನಾಲ್ಕು ತಲುಪಲು ಎಷ್ಟು ಮೆಟ್ಟಿಲುಗಳು?",
+        "transliteration": "Guhe naalku talupalu eshtu mettilugalu?",
+        "english": "How many steps to reach Cave 4?",
+        "when_to_use": "At the lower ticketing plaza.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "dambal-dodda-basappa",
+    "name": "Dambal",
+    "kannada_name": "ಡಂಬಳ",
+    "district": "Gadag",
+    "region": "Kittur Karnataka",
+    "category": "temple_heritage",
+    "interest_tags": [
+      "architecture",
+      "history",
+      "quiet_retreat"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "typical_duration_hours": 2,
+    "cost_level": "low",
+    "popularity_tier": 3,
+    "short_description": "An architectural wonder featuring the 24-pointed star-shaped vimana of Dodda Basappa Temple and Someshwara shrine.",
+    "how_to_reach": "~21 km south of Gadag town; accessible by local buses or hired auto-rickshaws.",
+    "lat": 15.3052,
+    "lng": 75.7721,
+    "coords_approx": true,
+    "heritage_era": "Kalyani Chalukya (12th century CE)",
+    "local_food": [
+      "Jolada Rotti",
+      "Jowar Porridge",
+      "Sajje Rotti"
+    ],
+    "local_craft": "",
+    "cultural_note": "Dambal was once a centre of Buddhist Mahayana worship as recorded in an 11th-century inscription mentioning a temple to Buddhist goddess Tara.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ದೊಡ್ಡಬಸಪ್ಪ ದೇವಸ್ಥಾನದ ನಕ್ಷತ್ರಾಕಾರದ ಗೋಪುರ ಎಲ್ಲಿಂದ ನೋಡಬೇಕು?",
+        "transliteration": "Doddabasappa devasthaanada nakshatraakaarada goopura ellinda noodabeku?",
+        "english": "From where is the star-shaped vimana tower best viewed?",
+        "when_to_use": "Consulting with the village caretaker.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "pattadakal-unesco-complex",
+    "name": "Pattadakal",
+    "kannada_name": "ಪಟ್ಟದಕಲ್ಲು",
+    "district": "Bagalkote",
+    "region": "Kittur Karnataka",
+    "category": "temple_heritage",
+    "interest_tags": [
+      "architecture",
+      "history",
+      "photography"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "typical_duration_hours": 3.5,
+    "cost_level": "low",
+    "popularity_tier": 1,
+    "short_description": "UNESCO World Heritage site on the Malaprabha River where Chalukya kings were coronated, showcasing harmonious coexistence of Dravidian and Nagara styles.",
+    "how_to_reach": "~22 km from Badami and ~14 km from Aihole; frequent buses connect along the circuit.",
+    "lat": 15.9482,
+    "lng": 75.8164,
+    "coords_approx": true,
+    "heritage_era": "Badami Chalukya (7th–8th century CE, Queen Lokamahadevi era)",
+    "local_food": [
+      "Jolada Rotti",
+      "Kaalu Palya",
+      "Shenga Chutney"
+    ],
+    "local_craft": "Stone replica carvings and Ilkal handloom stoles",
+    "cultural_note": "The grand Virupaksha Temple was commissioned by Queen Lokamahadevi in 740 CE to commemorate King Vikramaditya II's victory over the Pallavas.",
+    "festivals": [
+      {
+        "name": "Pattadakal Dance Festival",
+        "typical_month": "January",
+        "note": "Classical dance festival organised by the Karnataka state tourism department."
+      }
+    ],
+    "phrases": [
+      {
+        "kannada": "ದ್ರಾವಿಡ ಮತ್ತು ನಾಗರ ಶೈಲಿಯ ನಡುವಿನ ವ್ಯತ್ಯಾಸವೇನು?",
+        "transliteration": "Draavida mattu Naagara shailiya naduvina vyatyaasavenu?",
+        "english": "What is the difference between the Dravidian and Nagara styles?",
+        "when_to_use": "Speaking with the ASI heritage guide.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "mahakuta-temples-spring",
+    "name": "Mahakuta",
+    "kannada_name": "ಮಹಾಕೂಟ",
+    "district": "Bagalkote",
+    "region": "Kittur Karnataka",
+    "category": "temple_heritage",
+    "interest_tags": [
+      "spirituality",
+      "architecture",
+      "quiet_retreat"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "typical_duration_hours": 2,
+    "cost_level": "low",
+    "popularity_tier": 2,
+    "short_description": "A tranquil 7th-century forest Shaiva temple complex built around a perennial natural spring pool called Vishnu Pushkarini.",
+    "how_to_reach": "~14 km east of Badami town; accessible by local auto or road.",
+    "lat": 15.9082,
+    "lng": 75.7289,
+    "coords_approx": true,
+    "heritage_era": "Early Chalukya Dynasty (7th century CE)",
+    "local_food": [
+      "Tender Coconut",
+      "Jolada Rotti Meals"
+    ],
+    "local_craft": "Clay lamps and stone shivalingas",
+    "cultural_note": "The Mahakuta Pillar inscription contains vital historical genealogical data of the Early Chalukya kings.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ಪುಷ್ಕರಣಿಯಲ್ಲಿ ಸ್ನಾನ ಮಾಡಲು ಅವಕಾಶವಿದೆಯೇ?",
+        "transliteration": "Pushkariniyalli snaana maodalu avakaashavideye?",
+        "english": "Is bathing permitted in the pushkarini pool?",
+        "when_to_use": "Before entering the sacred spring.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "banashankari-temple",
+    "name": "Banashankari",
+    "kannada_name": "ಬನಶಂಕರಿ ಅಮ್ಮನವರ ದೇವಸ್ಥಾನ",
+    "district": "Bagalkote",
+    "region": "Kittur Karnataka",
+    "category": "temple_heritage",
+    "interest_tags": [
+      "spirituality",
+      "history"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "typical_duration_hours": 2,
+    "cost_level": "low",
+    "popularity_tier": 2,
+    "short_description": "Revered shrine of Goddess Shakambhari located in Tilakaranya forest, featuring the grand Haridra Theertha stepped tank flanked by stone watchtowers.",
+    "how_to_reach": "~5 km south of Badami on the highway towards Gadag.",
+    "lat": 15.8719,
+    "lng": 75.7042,
+    "coords_approx": true,
+    "heritage_era": "Early Chalukya & Maratha Renovation (7th–18th century CE)",
+    "local_food": [
+      "Bisi Rotti",
+      "Pundi Pallya",
+      "Shenga Chutney"
+    ],
+    "local_craft": "Ilkal saris woven in neighbouring villages",
+    "cultural_note": "The annual Banashankari fair brings camel and cattle trades and traditional touring drama companies.",
+    "festivals": [
+      {
+        "name": "Banashankari Jathre",
+        "typical_month": "January",
+        "note": "Month-long historical regional trade and temple chariot fair."
+      }
+    ],
+    "phrases": [
+      {
+        "kannada": "ಹರಿದ್ರಾ ತೀರ್ಥದ ದೀಪಸ್ತಂಭಗಳು ಎಲ್ಲಿವೆ?",
+        "transliteration": "Haridraa theerthada deepastambhagalu ellive?",
+        "english": "Where are the lamp towers of Haridra Theertha?",
+        "when_to_use": "Viewing the massive stepped tank.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "sudi-twin-tower-temples",
+    "name": "Sudi",
+    "kannada_name": "ಸೂಡಿ",
+    "district": "Gadag",
+    "region": "Kittur Karnataka",
+    "category": "temple_heritage",
+    "interest_tags": [
+      "architecture",
+      "history",
+      "quiet_retreat"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "typical_duration_hours": 2,
+    "cost_level": "low",
+    "popularity_tier": 3,
+    "short_description": "Historic town featuring the 11th-century Jodu Kalasa (Twin Towered) Gudi, Mallikarjuna Temple, and stepwells built under Western Chalukya princess Akkadevi.",
+    "how_to_reach": "~30 km from Gajendragad and ~50 km from Gadag; accessible by country roads.",
+    "lat": 15.7329,
+    "lng": 75.8641,
+    "coords_approx": true,
+    "heritage_era": "Western Chalukya Dynasty (11th century CE)",
+    "local_food": [
+      "Jolada Rotti",
+      "Sajje Rotti",
+      "Shenga Chutney"
+    ],
+    "local_craft": "Khadi handloom weaving",
+    "cultural_note": "Akkadevi, a Western Chalukya princess celebrated for administrative and military skill ('Gunada Bedagi'), administered the Kisukadu division from Sudi.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ಜೋಡು ಕಲಶ ದೇವಾಲಯ ಎಲ್ಲಿದೆ?",
+        "transliteration": "Jodu kalasha devaalaya ellide?",
+        "english": "Where is the Twin Towered temple?",
+        "when_to_use": "Inquiring in Sudi village center.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "kittur-fort-memorial",
+    "name": "Kittur",
+    "kannada_name": "ಕಿತ್ತೂರು",
+    "district": "Belagavi",
+    "region": "Kittur Karnataka",
+    "category": "fort_monument",
+    "interest_tags": [
+      "history",
+      "architecture"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "typical_duration_hours": 2.5,
+    "cost_level": "low",
+    "popularity_tier": 2,
+    "short_description": "The courageous citadel of Rani Chennamma, home to the ruined palace fortress, museum of armaments, and statues honoring the 1824 revolt against the British East India Company.",
+    "how_to_reach": "Located directly on NH 48, ~48 km from Belagavi and ~30 km from Dharwad.",
+    "lat": 15.6022,
+    "lng": 74.7938,
+    "coords_approx": true,
+    "heritage_era": "Kittur Principality (18th–19th century CE)",
+    "local_food": [
+      "Dharwad Peda",
+      "Jolada Rotti",
+      "Mishra Peda"
+    ],
+    "local_craft": "Brass armaments and traditional handloom",
+    "cultural_note": "Rani Chennamma led an armed rebellion against the British doctrine of lapse 33 years before the 1857 revolt.",
+    "festivals": [
+      {
+        "name": "Kittur Utsav",
+        "typical_month": "October",
+        "note": "Annual state celebration commemorating Rani Chennamma's victory against British forces."
+      }
+    ],
+    "phrases": [
+      {
+        "kannada": "ಕಿತ್ತೂರು ರಾಣಿ ಚೆನ್ನಮ್ಮನ ವಸ್ತುಸಂಗ್ರಹಾಲಯ ಎಲ್ಲಿದೆ?",
+        "transliteration": "Kitturu Rani Chennammana vastusangrahaalaya ellide?",
+        "english": "Where is the Rani Chennamma museum?",
+        "when_to_use": "Entering the fort grounds.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "savadatti-fort-renuka",
+    "name": "Savadatti",
+    "kannada_name": "ಸವದತ್ತಿ",
+    "district": "Belagavi",
+    "region": "Kittur Karnataka",
+    "category": "fort_monument",
+    "interest_tags": [
+      "history",
+      "spirituality"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "typical_duration_hours": 2.5,
+    "cost_level": "low",
+    "popularity_tier": 2,
+    "short_description": "Ancient capital of the Ratta dynasty featuring an 18th-century stone fort with eight bastions and nearby pilgrimage hill shrine of Yellamma (Renuka).",
+    "how_to_reach": "~78 km from Belagavi city and ~38 km from Dharwad; connected by state buses.",
+    "lat": 15.7654,
+    "lng": 75.1189,
+    "coords_approx": true,
+    "heritage_era": "Ratta Dynasty & Maratha era (9th–18th century CE)",
+    "local_food": [
+      "Jolada Rotti",
+      "Gongura Chutney",
+      "Belagavi Kunda"
+    ],
+    "local_craft": "Handloom cotton saris and temple brassware",
+    "cultural_note": "Yellamma Gudda attracts millions of devotees from Karnataka, Maharashtra, and Andhra Pradesh for Banada Hunnime.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ಕೋಟೆಯ ಮೇಲಿಂದ ದೃಷ್ಟಿ ಹೇಗೆ ಕಾಣಿಸುತ್ತದೆ?",
+        "transliteration": "Koteya melinda drishti heege kaanisuttade?",
+        "english": "How is the view from top of the fort?",
+        "when_to_use": "At the fort ramparts.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "halasi-kadamba-temple",
+    "name": "Halasi",
+    "kannada_name": "ಹಲಸಿ",
+    "district": "Belagavi",
+    "region": "Kittur Karnataka",
+    "category": "temple_heritage",
+    "interest_tags": [
+      "architecture",
+      "history",
+      "quiet_retreat"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "typical_duration_hours": 2,
+    "cost_level": "low",
+    "popularity_tier": 3,
+    "short_description": "One of the oldest historic capitals of the Kadambas of Banavasi, housing the 5th-century Bhoo Varaha Narasimha Temple with towering black stone idols.",
+    "how_to_reach": "~14 km from Khanapur railhead and ~40 km from Belagavi city.",
+    "lat": 15.5312,
+    "lng": 74.6041,
+    "coords_approx": true,
+    "heritage_era": "Kadamba Dynasty (5th–12th century CE)",
+    "local_food": [
+      "Pundi",
+      "Jolada Rotti",
+      "Belagavi Kunda"
+    ],
+    "local_craft": "Wood carving and rural agriculture",
+    "cultural_note": "The Kadamba dynasty of Halasi played a formative role in early Kannada epigraphy and temple architecture.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ಕದಂಬರ ಪ್ರಾಚೀನ ಶಿಲ್ಪಗಳು ಎಲ್ಲಿವೆ?",
+        "transliteration": "Kadambara praacheena shilpagalu ellive?",
+        "english": "Where are the ancient Kadamba sculptures?",
+        "when_to_use": "Inside the Bhoo Varaha complex.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "gokak-falls-bridge",
+    "name": "Gokak Falls",
+    "kannada_name": "ಗೋಕಾಕ್ ಜಲಪಾತ",
+    "district": "Belagavi",
+    "region": "Kittur Karnataka",
+    "category": "nature_hills",
+    "interest_tags": [
+      "nature",
+      "history",
+      "photography"
+    ],
+    "best_season": [
+      "July",
+      "August",
+      "September",
+      "October",
+      "November"
+    ],
+    "typical_duration_hours": 2.5,
+    "cost_level": "low",
+    "popularity_tier": 2,
+    "short_description": "A horseshoe waterfall on the Ghataprabha River plunging over red sandstone cliffs, crossed by a 201-metre pedestrian hanging suspension bridge.",
+    "how_to_reach": "~6 km from Gokak town and ~65 km north-east of Belagavi city.",
+    "lat": 16.1792,
+    "lng": 74.8219,
+    "coords_approx": true,
+    "heritage_era": "19th century industrial heritage (1887 CE) & Chalukya rock shrines",
+    "local_food": [
+      "Gokak Karadantu (fried edible gum sweet with dry fruits)",
+      "Ladagi Laddu"
+    ],
+    "local_craft": "GI-tagged Gokak Karadantu sweet manufacturing guilds",
+    "cultural_note": "Known as Karnataka's Niagara, the site features one of India's earliest hydro-electric generating stations established in 1887.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ತೂಗು ಸೇತುವೆಯ ಮೇಲೆ ನಡೆಯಲು ಶುಲ್ಕವಿದೆಯೇ?",
+        "transliteration": "Toogu setuveya mele nadeyalu shulkavideye?",
+        "english": "Is there a fee to walk on the suspension bridge?",
+        "when_to_use": "At the Gokak bridge entry.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "chaudayyadanapura-mukteshwara",
+    "name": "Chaudayyadanapura",
+    "kannada_name": "ಚೌಡಯ್ಯದಾನಪುರ",
+    "district": "Haveri",
+    "region": "Kittur Karnataka",
+    "category": "temple_heritage",
+    "interest_tags": [
+      "architecture",
+      "history",
+      "quiet_retreat"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "typical_duration_hours": 2,
+    "cost_level": "low",
+    "popularity_tier": 3,
+    "short_description": "A jewel of Western Chalukya architecture on the banks of the Tungabhadra River, famed for the Mukteshwara Temple and Sharanas' vachana heritage.",
+    "how_to_reach": "~18 km from Ranebennur railhead and ~45 km from Haveri town.",
+    "lat": 14.7812,
+    "lng": 75.7619,
+    "coords_approx": true,
+    "heritage_era": "Kalyani Chalukya (11th–12th century CE)",
+    "local_food": [
+      "Byadgi Chilli flavored dishes",
+      "Jolada Rotti",
+      "Holige"
+    ],
+    "local_craft": "Red Byadgi chilli trading and cotton grading",
+    "cultural_note": "Associated with 12th-century vachana poet Shivasharana Ambigara Chaudayya, a boatman-philosopher of the Sharana movement.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ಮುಕ್ತೇಶ್ವರ ದೇವಾಲಯದ ನದಿಯ ದಡಕ್ಕೆ ದಾರಿ ಎಲ್ಲಿದೆ?",
+        "transliteration": "Mukteshwara devaalayada nadiya dadakke daari ellide?",
+        "english": "Where is the path to the riverbank from the temple?",
+        "when_to_use": "Walking toward the Tungabhadra river.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "hampi-vijayanagara",
+    "name": "Hampi",
+    "kannada_name": "ಹಂಪಿ",
+    "district": "Vijayanagara",
+    "region": "Kalyana Karnataka",
+    "category": "fort_monument",
+    "interest_tags": [
+      "architecture",
+      "history",
+      "photography",
+      "spirituality"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "typical_duration_hours": 5,
+    "cost_level": "medium",
+    "popularity_tier": 1,
+    "short_description": "UNESCO World Heritage site across a surreal boulder landscape, capital of the Vijayanagara Empire featuring the stone chariot at Vijaya Vittala and Virupaksha Temple.",
+    "how_to_reach": "~12 km from Hosapete junction railhead; well connected by overnight trains and buses from Bengaluru and Hyderabad.",
+    "lat": 15.335,
+    "lng": 76.46,
+    "coords_approx": true,
+    "heritage_era": "Vijayanagara Empire (14th–16th century CE)",
+    "local_food": [
+      "Bisi Bele Bath",
+      "Mangalore Buns",
+      "Filter Coffee"
+    ],
+    "local_craft": "Banana-fibre bags and stone replica carving in Anegundi & Kamalapura",
+    "cultural_note": "Historically known as Kishkindha in the Ramayana; grew to become the second-largest city in the medieval world around 1500 CE.",
+    "festivals": [
+      {
+        "name": "Hampi Utsav",
+        "typical_month": "November",
+        "note": "Mega state cultural festival featuring music, light shows on monuments, and fireworks."
+      }
+    ],
+    "phrases": [
+      {
+        "kannada": "ಕಲ್ಲಿನ ರಥ ನೋಡಲು ದಾರಿ ಯಾವುದು?",
+        "transliteration": "Kallina ratha noodalu daari yaavudu?",
+        "english": "Which is the way to the stone chariot?",
+        "when_to_use": "Entering the Vittala Temple complex.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "bidar-fort-bahmani",
+    "name": "Bidar Fort & Bahmani Monuments",
+    "kannada_name": "ಬೀದರ್ ಕೋಟೆ ಹಾಗೂ ಬಹಮನಿ ಸ್ಮಾರಕಗಳು",
+    "district": "Bidar",
+    "region": "Kalyana Karnataka",
+    "category": "fort_monument",
+    "interest_tags": [
+      "architecture",
+      "history",
+      "crafts",
+      "photography"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "typical_duration_hours": 4,
+    "cost_level": "low",
+    "popularity_tier": 2,
+    "short_description": "Deccan capital fortified with a triple-layered moat carved from red laterite rock, housing Rangin Mahal, Tarkash Mahal, and Solah Khamba Mosque.",
+    "how_to_reach": "Connected by Bidar railway station; ~140 km from Hyderabad and accessible by state buses from Kalaburagi.",
+    "lat": 17.9256,
+    "lng": 77.5256,
+    "coords_approx": true,
+    "heritage_era": "Bahmani Sultanate & Barid Shahi (15th–16th century CE)",
+    "local_food": [
+      "Bidar Biryani",
+      "Naan Qalia"
+    ],
+    "local_craft": "GI-tagged Bidriware (zinc-copper alloy inlaid with pure silver)",
+    "cultural_note": "Bidar was known as the 'Crown of the Deccan' with sophisticated Persian Karez underground water networks.",
+    "festivals": [
+      {
+        "name": "Bidar Utsav",
+        "typical_month": "January",
+        "note": "Heritage festival with kite flying on fort ramparts and Ghazal recitals."
+      }
+    ],
+    "phrases": [
+      {
+        "kannada": "ಬಿದ್ರಿ ಕಲೆ ತಯಾರಿಸುವ ಕಾರ್ಯಾಗಾರ ಎಲ್ಲಿ?",
+        "transliteration": "Bidri kale tayarisuva kaaryagaara elli?",
+        "english": "Where are the Bidri craft workshops?",
+        "when_to_use": "Near Siddiq Talim in old Bidar town.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "sannati-kanaganahalli-stupa",
+    "name": "Sannati & Kanaganahalli",
+    "kannada_name": "ಸನ್ನತಿ ಹಾಗೂ ಕನಗನಹಳ್ಳಿ",
+    "district": "Kalaburagi",
+    "region": "Kalyana Karnataka",
+    "category": "fort_monument",
+    "interest_tags": [
+      "history",
+      "architecture",
+      "spirituality",
+      "quiet_retreat"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "typical_duration_hours": 3.5,
+    "cost_level": "low",
+    "popularity_tier": 3,
+    "short_description": "Archaeological treasure on the Bhima River where excavations revealed a Great Stupa and the only known inscribed portrait stone relief of Emperor Ashoka ('Raya Asoko').",
+    "how_to_reach": "~70 km from Kalaburagi and ~20 km from Nalwar railway station; reached by taxi or local bus.",
+    "lat": 16.8294,
+    "lng": 76.9082,
+    "coords_approx": true,
+    "heritage_era": "Maurya & Shatavahana (3rd century BCE–3rd century CE)",
+    "local_food": [
+      "Jolada Rotti",
+      "Kaalu Saaru",
+      "Shenga Chutney"
+    ],
+    "local_craft": "Limestone archaeological relief tradition",
+    "cultural_note": "Discovered accidentally in 1986 when the roof of the Chandralamba temple collapsed, revealing Asokan rock edicts.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ಅಶೋಕ ಚಕ್ರವರ್ತಿಯ ಶಿಲ್ಪ ಎಲ್ಲಿದೆ?",
+        "transliteration": "Ashoka chakravartiya shilpa ellide?",
+        "english": "Where is the sculpture of Emperor Ashoka?",
+        "when_to_use": "At the ASI excavation hangar.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "mahmud-gawan-madrasa",
+    "name": "Mahmud Gawan Madrasa",
+    "kannada_name": "ಮಹಮೂದ್ ಗವಾನ್ ಮದರಸಾ",
+    "district": "Bidar",
+    "region": "Kalyana Karnataka",
+    "category": "fort_monument",
+    "interest_tags": [
+      "architecture",
+      "history"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "typical_duration_hours": 1.5,
+    "cost_level": "low",
+    "popularity_tier": 2,
+    "short_description": "A monumental 15th-century theological university with a surviving minaret adorned in Persian turquoise and yellow glazed tiles, founded by Prime Minister Mahmud Gawan.",
+    "how_to_reach": "Located in the heart of old Bidar city; walking distance from the main bazaar.",
+    "lat": 17.9122,
+    "lng": 77.5312,
+    "coords_approx": true,
+    "heritage_era": "Bahmani Sultanate (1472 CE)",
+    "local_food": [
+      "Bidar Naan Qalia",
+      "Sweet Samolina Halwa"
+    ],
+    "local_craft": "Bidriware silver inlay pens and inkwells",
+    "cultural_note": "Its library once housed over 3,000 priceless illuminated manuscripts gathered from across the Islamic world.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ಹಳೆಯ ಬಣ್ಣದ ಟೈಲ್ಸ್‌ಗಳು ಎಲ್ಲಿ ಉಳಿದಿವೆ?",
+        "transliteration": "Haleya bannada tiles-galu elli ulidive?",
+        "english": "Where can the remaining colored glazed tiles be seen?",
+        "when_to_use": "Observing the facade minaret.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "ashtur-bahmani-tombs",
+    "name": "Ashtur Royal Tombs",
+    "kannada_name": "ಅಷ್ಟೂರ್ ಬಹಮನಿ ಸಮಾಧಿಗಳು",
+    "district": "Bidar",
+    "region": "Kalyana Karnataka",
+    "category": "fort_monument",
+    "interest_tags": [
+      "architecture",
+      "history",
+      "photography",
+      "quiet_retreat"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "typical_duration_hours": 2,
+    "cost_level": "low",
+    "popularity_tier": 3,
+    "short_description": "Row of twelve colossal domed mausoleums set in peaceful open countryside, featuring the tomb of Ahmad Shah Wali with Quranic gold-leaf calligraphy.",
+    "how_to_reach": "~4 km east of Bidar city center; reached easily by auto-rickshaw.",
+    "lat": 17.9294,
+    "lng": 77.5819,
+    "coords_approx": true,
+    "heritage_era": "Bahmani Dynasty (15th century CE)",
+    "local_food": [
+      "Chana Masala",
+      "Chai at roadside kiosks"
+    ],
+    "local_craft": "Laterite masonry",
+    "cultural_note": "Ahmad Shah Wali's tomb is revered by both Muslims as a Wali (saint) and by Lingayats who hold an annual Urs.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ಚಿನ್ನದ ಬಣ್ಣದ ಕ್ಯಾಲಿಗ್ರಫಿ ಇರುವ ಸಮಾಧಿ ಯಾವುದು?",
+        "transliteration": "Chinnada bannada calligraphy iruva samaadhi yaavudu?",
+        "english": "Which tomb has the gold calligraphy?",
+        "when_to_use": "Looking for Ahmad Shah Wali's tomb.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "kalaburagi-fort-jami-masjid",
+    "name": "Kalaburagi Fort & Jami Masjid",
+    "kannada_name": "ಕಲಬುರಗಿ ಕೋಟೆ ಹಾಗೂ ಜಾಮಿ ಮಸೀದಿ",
+    "district": "Kalaburagi",
+    "region": "Kalyana Karnataka",
+    "category": "fort_monument",
+    "interest_tags": [
+      "architecture",
+      "history"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "typical_duration_hours": 2.5,
+    "cost_level": "low",
+    "popularity_tier": 2,
+    "short_description": "14th-century fortress featuring 15 towers and the unique Jami Masjid (1367 CE), built with no open courtyard and covered by 68 domes.",
+    "how_to_reach": "Located in Kalaburagi city, ~3 km from the main railway station.",
+    "lat": 17.3419,
+    "lng": 76.8291,
+    "coords_approx": true,
+    "heritage_era": "Bahmani Sultanate (Alauddin Bahman Shah, 14th century CE)",
+    "local_food": [
+      "Gulbarga Tahari",
+      "Jolada Rotti with Shenga Chutney",
+      "Malpuri sweet"
+    ],
+    "local_craft": "Wood block printing and leather footwear",
+    "cultural_note": "The Jami Masjid's vaulted layout was designed by Spanish-Moorish architect Rafi of Kazvin, resembling the Great Mosque of Córdoba.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ಜಾಮಿ ಮಸೀದಿಯ ಗುಮ್ಮಟಗಳನ್ನು ನೋಡಲು ದಾರಿ ಯಾವುದು?",
+        "transliteration": "Jami maseediya gummadagalannu noodalu daari yaavudu?",
+        "english": "Which is the way to view the domes of the Jami Masjid?",
+        "when_to_use": "Inside the fort gates.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "khwaja-bande-nawaz-dargah",
+    "name": "Khwaja Bande Nawaz Dargah",
+    "kannada_name": "ಖ್ವಾಜಾ ಬಂದೇ ನವಾಜ್ ದರ್ಗಾ",
+    "district": "Kalaburagi",
+    "region": "Kalyana Karnataka",
+    "category": "temple_heritage",
+    "interest_tags": [
+      "spirituality",
+      "history",
+      "architecture"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "typical_duration_hours": 2,
+    "cost_level": "low",
+    "popularity_tier": 2,
+    "short_description": "The revered Sufi shrine of Hazrat Khwaja Syed Muhammad Gesudaraz, an oasis of spiritual syncretism built in Indo-Saracenic and Bahmani architectural style.",
+    "how_to_reach": "Located ~2 km from Kalaburagi central bus stand.",
+    "lat": 17.3289,
+    "lng": 76.8419,
+    "coords_approx": true,
+    "heritage_era": "Early 15th century CE Sufi Chisti tradition",
+    "local_food": [
+      "Gulbarga Tahari",
+      "Zarda sweet rice",
+      "Sheermal bread"
+    ],
+    "local_craft": "Incense making and attar perfumery",
+    "cultural_note": "Gesudaraz wrote extensively in Dakhani Urdu and promoted communal harmony between communities across the Deccan.",
+    "festivals": [
+      {
+        "name": "Urs of Bande Nawaz",
+        "typical_month": "November",
+        "note": "Major annual gathering drawing hundreds of thousands of pilgrims of all faiths."
+      }
+    ],
+    "phrases": [
+      {
+        "kannada": "ದರ್ಗಾದ ಗ್ರಂಥಾಲಯ ಎಲ್ಲಿದೆ?",
+        "transliteration": "Dargaada granthaalaya ellide?",
+        "english": "Where is the dargah's library?",
+        "when_to_use": "Inside the complex courtyard.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "sedam-malkhed-manyakheta",
+    "name": "Malkhed & Sedam",
+    "kannada_name": "ಮಳಖೇಡ ಹಾಗೂ ಸೇಡಂ",
+    "district": "Kalaburagi",
+    "region": "Kalyana Karnataka",
+    "category": "fort_monument",
+    "interest_tags": [
+      "history",
+      "architecture",
+      "quiet_retreat"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "typical_duration_hours": 3,
+    "cost_level": "low",
+    "popularity_tier": 3,
+    "short_description": "The imperial capital Manyakheta of the Rashtrakuta Empire on the Kagina River, praised by Arab geographers as one of the four great empires of the world.",
+    "how_to_reach": "~40 km southeast of Kalaburagi; accessible by passenger train to Malkhed Road or state bus.",
+    "lat": 17.1821,
+    "lng": 77.1619,
+    "coords_approx": true,
+    "heritage_era": "Rashtrakuta Empire (9th–10th century CE, King Amoghavarsha I)",
+    "local_food": [
+      "Jolada Rotti with Pitla",
+      "Spiced Groundnut Chutney"
+    ],
+    "local_craft": "Sedam limestone quarrying and polishing (Shahabad stone)",
+    "cultural_note": "King Amoghavarsha I patronized Kavirajamarga (c. 850 CE), the earliest available work on Kannada poetics.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ರಾಷ್ಟ್ರಕೂಟರ ಕೋಟೆ ಎಲ್ಲಿ ಬರುತ್ತದೆ?",
+        "transliteration": "Raashtrakootara kote elli baruttade?",
+        "english": "Where is the Rashtrakuta fort located?",
+        "when_to_use": "Asking along the Kagina river bridge.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "anegundi-heritage-village",
+    "name": "Anegundi",
+    "kannada_name": "ಆನೆಗುಂದಿ",
+    "district": "Koppal",
+    "region": "Kalyana Karnataka",
+    "category": "fort_monument",
+    "interest_tags": [
+      "history",
+      "nature",
+      "crafts",
+      "photography"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "typical_duration_hours": 3.5,
+    "cost_level": "low",
+    "popularity_tier": 2,
+    "short_description": "Older than Hampi across the Tungabhadra, identified with mythical Kishkindha, featuring Anjanadri Hill, prehistoric rock art, and Pampa Sarovara.",
+    "how_to_reach": "~5 km from Hampi across the Tungabhadra River bridge or via coracle ferry.",
+    "lat": 15.3512,
+    "lng": 76.4921,
+    "coords_approx": true,
+    "heritage_era": "Prehistoric iron-age rock art to Vijayanagara (14th century CE)",
+    "local_food": [
+      "Banana-flower vada",
+      "Millet Rotti",
+      "Fresh tender coconut"
+    ],
+    "local_craft": "Banana-fibre weaving cooperative workshops by local women",
+    "cultural_note": "Anjanadri Hill in Anegundi is traditionally worshipped as the birthplace of Lord Hanuman.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ಅಂಜನಾದ್ರಿ ಬೆಟ್ಟಕ್ಕೆ ಎಷ್ಟು ಮೆಟ್ಟಿಲುಗಳು?",
+        "transliteration": "Anjanaadri bettakke eshtu mettilugalu?",
+        "english": "How many steps to Anjanadri Hill?",
+        "when_to_use": "At the hill base (approx. 575 steps).",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "kuknur-navalinga-temples",
+    "name": "Kuknur",
+    "kannada_name": "ಕುಕನೂರು ನವಲಿಂಗ ದೇವಾಲಯ",
+    "district": "Koppal",
+    "region": "Kalyana Karnataka",
+    "category": "temple_heritage",
+    "interest_tags": [
+      "architecture",
+      "history",
+      "quiet_retreat"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "typical_duration_hours": 2,
+    "cost_level": "low",
+    "popularity_tier": 3,
+    "short_description": "A cluster of nine stone shrines from the 9th-century Rashtrakuta and Kalyani Chalukya eras, featuring early Kannada inscriptions and Mahamaya Temple.",
+    "how_to_reach": "~28 km from Koppal and ~12 km from Itagi; reached by rural roads.",
+    "lat": 15.4219,
+    "lng": 76.0452,
+    "coords_approx": true,
+    "heritage_era": "Rashtrakuta & Early Kalyani Chalukya (9th–10th century CE)",
+    "local_food": [
+      "Jolada Rotti",
+      "Jowar porridge",
+      "Kaalu Palya"
+    ],
+    "local_craft": "Traditional stone chiselling",
+    "cultural_note": "Demonstrates the crucial transition from Rashtrakuta vimanas to the evolved ornate style of the Later Chalukyas.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ಒಂಬತ್ತು ಲಿಂಗಗಳ ದೇವಾಲಯ ಯಾವುದು?",
+        "transliteration": "Ombattu lingagala devaalaya yaavudu?",
+        "english": "Which is the temple with nine lingas?",
+        "when_to_use": "Asking in Kuknur town square.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "itagi-mahadeva-temple",
+    "name": "Itagi",
+    "kannada_name": "ಇಟಗಿ ಮಹಾದೇವ ದೇವಾಲಯ",
+    "district": "Koppal",
+    "region": "Kalyana Karnataka",
+    "category": "temple_heritage",
+    "interest_tags": [
+      "architecture",
+      "history",
+      "photography",
+      "quiet_retreat"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "typical_duration_hours": 2.5,
+    "cost_level": "low",
+    "popularity_tier": 3,
+    "short_description": "Hailed in its own stone inscription as 'Devalaya Chakravarti' (Emperor among Temples), built in 1112 CE with breathtaking soapstone carvings.",
+    "how_to_reach": "~22 km from Kuknur and ~35 km from Gadag or Koppal.",
+    "lat": 15.4719,
+    "lng": 75.9892,
+    "coords_approx": true,
+    "heritage_era": "Kalyani Chalukya Empire (1112 CE, Mahadeva Dandanayaka)",
+    "local_food": [
+      "Jolada Rotti",
+      "Sajje Rotti",
+      "Shenga Chutney"
+    ],
+    "local_craft": "Chloritic schist relief carving",
+    "cultural_note": "The temple inscription explicitly proclaims itself as the greatest temple achievement of the Western Chalukyan empire.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ದೇವಾಲಯ ಚಕ್ರವರ್ತಿ ಶಾಸನ ಎಲ್ಲಿ ಕೆತ್ತಲಾಗಿದೆ?",
+        "transliteration": "Devaalaya chakravarthi shaasana elli kettalaagide?",
+        "english": "Where is the 'Emperor of Temples' inscription carved?",
+        "when_to_use": "Examining the stone slab inside the hall.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "kanakagiri-kanakachalapathi",
+    "name": "Kanakagiri",
+    "kannada_name": "ಕನಕಗಿರಿ",
+    "district": "Koppal",
+    "region": "Kalyana Karnataka",
+    "category": "temple_heritage",
+    "interest_tags": [
+      "architecture",
+      "history",
+      "quiet_retreat"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "typical_duration_hours": 2,
+    "cost_level": "low",
+    "popularity_tier": 3,
+    "short_description": "Known locally by the Kannada proverb 'Eyes that have seen Kanakagiri need not see Kashi', noted for the spacious Kanakachalapathi temple and ornate stepwell.",
+    "how_to_reach": "~20 km from Gangavathi and ~45 km from Hosapete.",
+    "lat": 15.5781,
+    "lng": 76.4219,
+    "coords_approx": true,
+    "heritage_era": "Vijayanagara Feudatories (16th–17th century CE)",
+    "local_food": [
+      "Kanakagiri Rotti",
+      "Holige",
+      "Spiced Curd"
+    ],
+    "local_craft": "Stone water trough sculpting",
+    "cultural_note": "Historical Suvarnagiri mentioned in Ashokan edicts of the 3rd century BCE as the seat of the Mauryan southern viceroyalty.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ಕನಕಗಿರಿ ಕಲ್ಯಾಣಿ ಎಲ್ಲಿದೆ?",
+        "transliteration": "Kanakagiri kalyani ellide?",
+        "english": "Where is the Kanakagiri stepped tank?",
+        "when_to_use": "Asking in the temple square.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "daroji-sloth-bear-sanctuary",
+    "name": "Daroji Bear Sanctuary",
+    "kannada_name": "ದರೋಜಿ ಕರಡಿ ಧಾಮ",
+    "district": "Vijayanagara",
+    "region": "Kalyana Karnataka",
+    "category": "wildlife_sanctuary",
+    "interest_tags": [
+      "nature",
+      "photography",
+      "quiet_retreat"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "typical_duration_hours": 2.5,
+    "cost_level": "medium",
+    "popularity_tier": 2,
+    "short_description": "Asia's first dedicated sloth bear sanctuary nestled among the boulder hills near Hampi, where bears can be observed in their natural habitat from a watchtower.",
+    "how_to_reach": "~15 km from Hampi and ~20 km from Hosapete.",
+    "lat": 15.2619,
+    "lng": 76.5412,
+    "coords_approx": true,
+    "heritage_era": "Protected scrub forest sanctuary (Established 1994)",
+    "local_food": [
+      "Jolada Rotti",
+      "Hosapete Dosa"
+    ],
+    "local_craft": "Scrub-jungle honey collection",
+    "cultural_note": "Sloth bears forage for termites, wild berries, and honeycombs across the rocky scrub caves.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ಕರಡಿಗಳನ್ನು ನೋಡಲು ಸಂಜೆ ಸಮಯ ಉತ್ತಮವೇ?",
+        "transliteration": "Karadigalannu noodalu sanje samaya uttamave?",
+        "english": "Is the evening time best to sight the bears?",
+        "when_to_use": "At the forest entry gate.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  },
+  {
+    "id": "sandur-kumaraswamy-temple",
+    "name": "Sandur",
+    "kannada_name": "ಸಂಡೂರು",
+    "district": "Ballari",
+    "region": "Kalyana Karnataka",
+    "category": "temple_heritage",
+    "interest_tags": [
+      "architecture",
+      "history",
+      "nature",
+      "quiet_retreat"
+    ],
+    "best_season": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "typical_duration_hours": 3,
+    "cost_level": "low",
+    "popularity_tier": 3,
+    "short_description": "A valley nestled between mineral-rich iron-red hills, home to the 8th-to-11th-century Kumaraswamy and Parvathi temples and Lambani tribal embroidery.",
+    "how_to_reach": "~30 km from Hosapete and ~45 km from Ballari city.",
+    "lat": 15.0892,
+    "lng": 76.5512,
+    "coords_approx": true,
+    "heritage_era": "Badami Chalukya & Rashtrakuta (8th–11th century CE) & Ghorpade Kingdom",
+    "local_food": [
+      "Jolada Rotti",
+      "Shenga Chutney",
+      "Ballari Mirchi Bhajji"
+    ],
+    "local_craft": "GI-tagged Sandur Lambani embroidery with mirrors and cowrie shells",
+    "cultural_note": "Mahatma Gandhi visited Sandur in 1934 and remarked: 'See Sandur in September', admiring its green hill contours.",
+    "festivals": [],
+    "phrases": [
+      {
+        "kannada": "ಲಂಬಾಣಿ ಕಸೂತಿ ಕರಕುಶಲ ಕೇಂದ್ರ ಎಲ್ಲಿದೆ?",
+        "transliteration": "Lambaani kasooti karakushala kendra ellide?",
+        "english": "Where is the Lambani embroidery craft center?",
+        "when_to_use": "Seeking the craft artisan guild in Sandur.",
+        "review_status": "draft"
+      }
+    ],
+    "source": "to be added",
+    "last_checked": "2026-10-01",
+    "verified": false,
+    "field_verification": {
+      "coordinates_verified": false,
+      "cultural_notes_verified": false,
+      "phrases_verified": false,
+      "festivals_verified": false
+    }
+  }
+]

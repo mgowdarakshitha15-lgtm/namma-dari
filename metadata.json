@@ -1,0 +1,8 @@
+{
+  "name": "Namma Daari",
+  "description": "AI-assisted travel planner creating honest, personalized, and offbeat itineraries for exploring the hidden beauty of Karnataka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
